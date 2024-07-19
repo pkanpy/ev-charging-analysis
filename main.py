@@ -171,7 +171,9 @@ if __name__ == '__main__':
     state_table_name = 'charging_station_states'
     info_table_name = 'charging_station_info'
     conn = sqlite3.connect('ev_charging.db')
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    options = webdriver.ChromeOptions()
+    options.add_argument('--headless')
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     ev_url = "https://driver.chargepoint.com/stations/"
     station_list = ['554251', '5426281', '5426291']
 

@@ -43,7 +43,7 @@ def get_status_data(url, station_id):
 
         # refresh and retry to load site if failed
         try_count = 1
-        while port_1 is None and try_count < 5:
+        while port_1 is None and try_count <= 5:
             driver.refresh()
             time.sleep(11 + try_count**2)
             wait.until(EC.url_to_be(url))
@@ -53,7 +53,7 @@ def get_status_data(url, station_id):
             port_1 = soup.find('div', {'data-qa-id': 'port_1'})
             try_count += 1
         # If failed, return failure
-        if try_count == 3:
+        if try_count == 6:
             current_state_df = pd.DataFrame(
                 {'station_id': [station_id],
                  'timestamp': [datetime.datetime.now()],
@@ -122,7 +122,7 @@ def get_station_info(url, station_id):
 
         # refresh and retry if site load fails
         try_count = 1
-        while port_1 is None and try_count < 5:
+        while port_1 is None and try_count <= 5:
             driver.refresh()
             time.sleep(11 + try_count**2)
             wait.until(EC.url_to_be(url))
@@ -132,7 +132,7 @@ def get_station_info(url, station_id):
             port_1 = soup.find('div', {'data-qa-id': 'port_1'})
             try_count += 1
             # If failed, return failure
-        if try_count == 3:
+        if try_count == 6:
             current_state_df = pd.DataFrame(
                 {'station_id': [station_id],
                  'timestamp': [datetime.datetime.now()],
@@ -167,15 +167,15 @@ def get_station_info(url, station_id):
 
 # main
 if __name__ == '__main__':
-    # initialize names, stations and sqlite connection
+    # initialize url, stations, sqlite connection, and chrome webdriver (headless)
+    ev_url = "https://driver.chargepoint.com/stations/"
+    station_list = ['554251', '5426281', '5426291']
     state_table_name = 'charging_station_states'
     info_table_name = 'charging_station_info'
     conn = sqlite3.connect('ev_charging.db')
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-    ev_url = "https://driver.chargepoint.com/stations/"
-    station_list = ['554251', '5426281', '5426291']
 
     # setup loop over stations and trigger for station info update
     state_df_list = []
@@ -192,11 +192,15 @@ if __name__ == '__main__':
         last_station_state = conn.cursor().execute(sql).fetchone()
 
         # compare the last station data to the first and flag a change if found
-        # !! flawed but no better solution to flag changes unless sample time increases !!
-        if ((last_station_state[2] != current_station_state_df.loc[0, 'port_1_status']) &
+        # !! flawed !!
+        # does not account for initial failures (will trigger change flags on fail)
+        # but no better solution to flag changes unless sample time increases
+        if ((last_station_state[2] != current_station_state_df.loc[0, 'port_1_status']) and
+                (last_station_state[2] != 'failed') and
                 (last_station_state[4] != current_station_state_df.loc[0, 'car_charge_slice'])):
             current_station_state_df['port_1_change_flag'] = 1
-        if ((last_station_state[3] != current_station_state_df.loc[0, 'port_2_status']) &
+        if ((last_station_state[3] != current_station_state_df.loc[0, 'port_2_status']) and
+                (last_station_state[3] != 'failed') and
                 (last_station_state[4] != current_station_state_df.loc[0, 'car_charge_slice'])):
             current_station_state_df['port_2_change_flag'] = 1
 
@@ -208,9 +212,11 @@ if __name__ == '__main__':
             current_station_info_df = get_station_info(ev_url, station)
             sql = f"SELECT * FROM {info_table_name} where station_id = {station} order by timestamp DESC limit 1"
             last_station_state = conn.cursor().execute(sql).fetchone()
-            if last_station_state[2] != current_station_info_df.loc[0, 'port_1_info']:
+            if ((last_station_state[2] != current_station_info_df.loc[0, 'port_1_info']) and
+                    (last_station_state[2] != 'failure')):
                 current_station_info_df['port_1_change_flag'] = 1
-            if last_station_state[3] != current_station_info_df.loc[0, 'port_2_info']:
+            if ((last_station_state[3] != current_station_info_df.loc[0, 'port_2_info']) and
+                    (last_station_state[2] != 'failure')):
                 current_station_info_df['port_2_change_flag'] = 1
             info_df_list.append(current_station_info_df)
 
@@ -229,5 +235,5 @@ if __name__ == '__main__':
         info_inserted = station_info_update_df.to_sql(info_table_name, conn, if_exists='append', index=False)
 
     print('finished')
-    time.sleep(3)
+    time.sleep(2)
 

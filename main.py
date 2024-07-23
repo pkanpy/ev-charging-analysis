@@ -9,6 +9,8 @@ database. Additionally, in the first 5 minutes of the 23rd day of a month, the s
 scraped and added to a separate table in the sqlite database.
 params: none
 output: none (data added to sqlite database called 'ev_charging.db')
+
+notes: chargepoint seems to block AWS ec2 instance, would need a proxy but this seems against the spirit of scraping
 """
 
 import time
@@ -20,9 +22,13 @@ import sqlite3
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
+# from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
+# from pyvirtualdisplay import Display  # didn't work
+# from fake_useragent import UserAgent
 
 
 # get the status data of a station
@@ -40,6 +46,7 @@ def get_status_data(url, station_id):
 
         # get the port 1 status
         port_1 = soup.find('div', {'data-qa-id': 'port_1'})
+        print(port_1)
 
         # refresh and retry to load site if failed
         try_count = 1
@@ -51,7 +58,9 @@ def get_status_data(url, station_id):
             page_source = driver.page_source
             soup = BeautifulSoup(page_source, features='html.parser')
             port_1 = soup.find('div', {'data-qa-id': 'port_1'})
+            print(port_1)
             try_count += 1
+            print('try ' + str(try_count))
         # If failed, return failure
         if try_count == 6:
             current_state_df = pd.DataFrame(
@@ -64,6 +73,8 @@ def get_status_data(url, station_id):
                  'port_2_change_flag': [0]
                  }
             )
+            print('failed')
+            print(soup.text)
             return current_state_df
 
         # get port 1 status
@@ -131,6 +142,7 @@ def get_station_info(url, station_id):
             soup = BeautifulSoup(page_source, features='html.parser')
             port_1 = soup.find('div', {'data-qa-id': 'port_1'})
             try_count += 1
+            print('try ' + str(try_count))
             # If failed, return failure
         if try_count == 6:
             current_state_df = pd.DataFrame(
@@ -173,9 +185,23 @@ if __name__ == '__main__':
     state_table_name = 'charging_station_states'
     info_table_name = 'charging_station_info'
     conn = sqlite3.connect('ev_charging.db')
-    options = webdriver.ChromeOptions()
-    options.add_argument('--headless')
+    options = Options()
+    options.add_argument("--incognito")
+    options.add_argument("--nogpu")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1920,1200")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--enable-javascript")
+    options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    options.add_experimental_option('useAutomationExtension', False)
+    options.add_argument('--disable-blink-features=AutomationControlled')
+    options.add_argument('--headless=new')
+
+    # ua = UserAgent()
+    # user_agent = ua.random
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    # driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+    # driver.execute_cdp_cmd('Network.setUserAgentOverride', {"userAgent": user_agent})
 
     # setup loop over stations and trigger for station info update
     state_df_list = []
@@ -185,6 +211,7 @@ if __name__ == '__main__':
     info_df_list = []
     for station in station_list:
         # scrape status data
+        print(station)
         current_station_state_df = get_status_data(ev_url, station)
 
         # get the last row of data for the station put into the database
@@ -199,7 +226,7 @@ if __name__ == '__main__':
                 (last_station_state[2] != 'failed') and
                 (last_station_state[4] != current_station_state_df.loc[0, 'car_charge_slice'])):
             current_station_state_df['port_1_change_flag'] = 1
-        if ((last_station_state[3] != current_station_state_df.loc[0, 'port_2_status']) and
+        elif ((last_station_state[3] != current_station_state_df.loc[0, 'port_2_status']) and
                 (last_station_state[3] != 'failed') and
                 (last_station_state[4] != current_station_state_df.loc[0, 'car_charge_slice'])):
             current_station_state_df['port_2_change_flag'] = 1
@@ -234,6 +261,8 @@ if __name__ == '__main__':
             send = 'error email notification'
         info_inserted = station_info_update_df.to_sql(info_table_name, conn, if_exists='append', index=False)
 
+    print(station_state_update_df)
     print('finished')
+    driver.quit()
     time.sleep(2)
 

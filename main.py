@@ -1,4 +1,10 @@
 ### EV charging Webscrape ###
+# Puppy edition
+# reqs:
+    # apt get update
+    # apt install python3.11-venv
+    # portable chrome: https://www.forum.puppylinux.com/viewtopic.php?t=12402&sid=62ae50f256cb7109a36165ec82473d27
+    # chromedriver stuff: https://stackoverflow.com/questions/48649230/how-to-update-chromedriver-on-ubuntu
 
 """
 Description: This program scrapes charging data from the website 'Chargepoint'.
@@ -19,6 +25,7 @@ import json
 from bs4 import BeautifulSoup
 import pandas as pd
 import sqlite3
+import os
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -26,7 +33,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from webdriver_manager.chrome import ChromeDriverManager
+# from webdriver_manager.chrome import ChromeDriverManager
 # from pyvirtualdisplay import Display  # didn't work
 # from fake_useragent import UserAgent
 
@@ -181,7 +188,7 @@ def get_station_info(url, station_id):
 if __name__ == '__main__':
     # initialize url, stations, sqlite connection, and chrome webdriver (headless)
     ev_url = "https://driver.chargepoint.com/stations/"
-    station_list = ['554251', '5426281', '5426291']
+    station_list = ['554251', '5426281', '5426291','15906911','15906941']
     state_table_name = 'charging_station_states'
     info_table_name = 'charging_station_info'
     conn = sqlite3.connect('ev_charging.db')
@@ -199,7 +206,10 @@ if __name__ == '__main__':
 
     # ua = UserAgent()
     # user_agent = ua.random
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    #driver = webdriver.Chrome() #'/usr/bin/chromedriver')
+    cService = webdriver.ChromeService(executable_path='/usr/bin/chromedriver')
+    driver = webdriver.Chrome(service = cService)
     # driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
     # driver.execute_cdp_cmd('Network.setUserAgentOverride', {"userAgent": user_agent})
 
@@ -265,4 +275,5 @@ if __name__ == '__main__':
     print('finished')
     driver.quit()
     time.sleep(2)
+    os.system('killall chrome')
 

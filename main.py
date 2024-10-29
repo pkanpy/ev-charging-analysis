@@ -5,7 +5,8 @@
     # apt install python3.11-venv
     # portable chrome: https://www.forum.puppylinux.com/viewtopic.php?t=12402&sid=62ae50f256cb7109a36165ec82473d27
     # chromedriver stuff: https://stackoverflow.com/questions/48649230/how-to-update-chromedriver-on-ubuntu
-	# use absolute paths and to test in terminal: 
+	# use absolute paths
+	# to test in terminal: 
 	#     /bin/sh -c "cd ~ && /root/my-documents/ev-charging-analysis/.venv/bin/python /root/my-documents/ev-charging-analysis/main.py"
 
 

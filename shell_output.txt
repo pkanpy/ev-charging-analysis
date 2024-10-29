@@ -1,1 +1,1 @@
-/bin/sh: line 1: /root/my-documents/ev-charging-analysis/cronjob_run_script.sh: Permission denied
+/bin/sh: line 1: cd ~ && cd /root/my-documents/ev-charging-analysis && git add . && git commit -a -m "autopush from ev-charging webscraper" && git push: No such file or directory

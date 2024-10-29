@@ -5,6 +5,9 @@
     # apt install python3.11-venv
     # portable chrome: https://www.forum.puppylinux.com/viewtopic.php?t=12402&sid=62ae50f256cb7109a36165ec82473d27
     # chromedriver stuff: https://stackoverflow.com/questions/48649230/how-to-update-chromedriver-on-ubuntu
+	# use absolute paths and to test in terminal: 
+	#     /bin/sh -c "cd ~ && /root/my-documents/ev-charging-analysis/.venv/bin/python /root/my-documents/ev-charging-analysis/main.py"
+
 
 """
 Description: This program scrapes charging data from the website 'Chargepoint'.
@@ -191,7 +194,7 @@ if __name__ == '__main__':
     station_list = ['554251', '5426281', '5426291','15906911','15906941']
     state_table_name = 'charging_station_states'
     info_table_name = 'charging_station_info'
-    conn = sqlite3.connect('ev_charging.db')
+    conn = sqlite3.connect('/root/my-documents/ev-charging-analysis/ev_charging.db')
     options = Options()
     options.add_argument("--incognito")
     options.add_argument("--nogpu")
@@ -227,12 +230,15 @@ if __name__ == '__main__':
         # get the last row of data for the station put into the database
         sql = f"SELECT * FROM {state_table_name} where station_id = {station} order by timestamp DESC limit 1"
         last_station_state = conn.cursor().execute(sql).fetchone()
+        print(last_station_state)
 
         # compare the last station data to the first and flag a change if found
         # !! flawed !!
         # does not account for initial failures (will trigger change flags on fail)
         # but no better solution to flag changes unless sample time increases
-        if ((last_station_state[2] != current_station_state_df.loc[0, 'port_1_status']) and
+        if (last_station_state is None) and ~(current_station_state_df.empty):
+	        pass
+        elif ((last_station_state[2] != current_station_state_df.loc[0, 'port_1_status']) and
                 (last_station_state[2] != 'failed') and
                 (last_station_state[4] != current_station_state_df.loc[0, 'car_charge_slice'])):
             current_station_state_df['port_1_change_flag'] = 1
@@ -249,6 +255,8 @@ if __name__ == '__main__':
             current_station_info_df = get_station_info(ev_url, station)
             sql = f"SELECT * FROM {info_table_name} where station_id = {station} order by timestamp DESC limit 1"
             last_station_state = conn.cursor().execute(sql).fetchone()
+            if (last_station_state is None) and ~(current_station_state_df.empty):
+	            pass
             if ((last_station_state[2] != current_station_info_df.loc[0, 'port_1_info']) and
                     (last_station_state[2] != 'failure')):
                 current_station_info_df['port_1_change_flag'] = 1

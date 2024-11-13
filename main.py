@@ -7,8 +7,8 @@
     # chromedriver stuff: https://stackoverflow.com/questions/48649230/how-to-update-chromedriver-on-ubuntu
 	# use absolute paths
 	# to test in terminal: 
-	#     /bin/sh -c "cd ~ && /root/my-documents/ev-charging-analysis/.venv/bin/python /root/my-documents/ev-charging-analysis/main.py"
-
+	#     /bin/sh -c "cd ~ && /root/ev-charging-analysis/venv/bin/python /root/ev-charging-analysis/main.py"
+	#     */5 * * * *     is format, use above shell command to run
 
 """
 Description: This program scrapes charging data from the website 'Chargepoint'.
@@ -195,7 +195,7 @@ if __name__ == '__main__':
     station_list = ['554251', '5426281', '5426291','15906911','15906941']
     state_table_name = 'charging_station_states'
     info_table_name = 'charging_station_info'
-    conn = sqlite3.connect('/root/my-documents/ev-charging-analysis/ev_charging.db')
+    conn = sqlite3.connect('/root/ev-charging-analysis/ev_charging.db')
     options = Options()
     options.add_argument("--incognito")
     options.add_argument("--nogpu")
@@ -211,9 +211,11 @@ if __name__ == '__main__':
     # ua = UserAgent()
     # user_agent = ua.random
     # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-    #driver = webdriver.Chrome() #'/usr/bin/chromedriver')
-    cService = webdriver.ChromeService(executable_path='/usr/bin/chromedriver')
-    driver = webdriver.Chrome(service = cService)
+    driver = webdriver.Chrome(options=options)
+    
+    # cService = webdriver.ChromeService(executable_path='/usr/bin/chromedriver')
+    # driver = webdriver.Chrome(service = cService)
+
     # driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
     # driver.execute_cdp_cmd('Network.setUserAgentOverride', {"userAgent": user_agent})
 

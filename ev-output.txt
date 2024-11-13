@@ -1,0 +1,154 @@
+killall: chrome: no process killed
+554251
+None
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: Available" class="sc-fHCFno eMIJrL" color="#FFFFFFFF" data-qa-id="port_status_pill_available">Available</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">19.8 mi / hour</p><p class="sc-cEEJxU ghAFTp">6.6 kW</p><p class="sc-cEEJxU ghAFTp">(J1772)</p></div></div>
+try 2
+('554251', '2024-11-13 22:09:19.629395', 'available', 'in_use', '[{"Tesla Model Y": "11/13/2024"}, {"Jeep Wrangler": "11/13/2024"}, {"Tesla Model Y": "11/13/2024"}, {"Tesla Model Y": "11/12/2024"}, {"Tesla Model 3": "11/12/2024"}]', 0, 0)
+5426281
+None
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+try 2
+('5426281', '2024-11-13 22:09:28.339737', 'in_use', 'N/A', '[{"Unknown Car": "11/13/2024"}, {"Honda Prologue": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}]', 0, 0)
+5426291
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+('5426291', '2024-11-13 22:09:37.003644', 'in_use', 'N/A', '[{"Hyundai Kona EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}, {"Honda Prologue": "11/13/2024"}]', 0, 0)
+15906911
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: Available" class="sc-fHCFno eMIJrL" color="#FFFFFFFF" data-qa-id="port_status_pill_available">Available</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906911', '2024-11-13 22:09:45.660409', 'in_use', 'in_use', '[{"Hyundai Ioniq 5": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Chevrolet Bolt EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Land Rover Range Rover Sport": "11/13/2024"}]', 0, 0)
+15906941
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906941', '2024-11-13 22:09:54.416511', 'in_use', 'in_use', '[{"Hyundai Kona EV": "11/13/2024"}, {"Chevrolet Bolt EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Chevrolet Bolt EUV": "11/13/2024"}]', 0, 0)
+  station_id                  timestamp  ... port_1_change_flag port_2_change_flag
+0     554251 2024-11-13 22:35:24.528474  ...                  0                  0
+1    5426281 2024-11-13 22:35:45.956860  ...                  0                  0
+2    5426291 2024-11-13 22:35:54.663714  ...                  0                  0
+3   15906911 2024-11-13 22:36:03.342801  ...                  0                  0
+4   15906941 2024-11-13 22:36:12.106259  ...                  0                  0
+
+[5 rows x 7 columns]
+finished
+killall: chrome: no process killed
+554251
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: Available" class="sc-fHCFno eMIJrL" color="#FFFFFFFF" data-qa-id="port_status_pill_available">Available</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">19.8 mi / hour</p><p class="sc-cEEJxU ghAFTp">6.6 kW</p><p class="sc-cEEJxU ghAFTp">(J1772)</p></div></div>
+('554251', '2024-11-13 22:35:24.528474', 'available', 'in_use', '[{"Tesla Model Y": "11/13/2024"}, {"Jeep Wrangler": "11/13/2024"}, {"Tesla Model Y": "11/13/2024"}, {"Tesla Model Y": "11/12/2024"}, {"Tesla Model 3": "11/12/2024"}]', 0, 0)
+5426281
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+('5426281', '2024-11-13 22:35:45.956860', 'in_use', 'N/A', '[{"Unknown Car": "11/13/2024"}, {"Honda Prologue": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}]', 0, 0)
+5426291
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+('5426291', '2024-11-13 22:35:54.663714', 'in_use', 'N/A', '[{"Hyundai Kona EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}, {"Honda Prologue": "11/13/2024"}]', 0, 0)
+15906911
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906911', '2024-11-13 22:36:03.342801', 'available', 'in_use', '[{"Hyundai Ioniq 5": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Chevrolet Bolt EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Land Rover Range Rover Sport": "11/13/2024"}]', 0, 0)
+15906941
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906941', '2024-11-13 22:36:12.106259', 'in_use', 'in_use', '[{"Hyundai Kona EV": "11/13/2024"}, {"Chevrolet Bolt EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Chevrolet Bolt EUV": "11/13/2024"}]', 0, 0)
+  station_id                  timestamp  ... port_1_change_flag port_2_change_flag
+0     554251 2024-11-13 22:40:11.014815  ...                  0                  0
+1    5426281 2024-11-13 22:40:19.672509  ...                  0                  0
+2    5426291 2024-11-13 22:40:28.328424  ...                  0                  0
+3   15906911 2024-11-13 22:40:37.019301  ...                  0                  0
+4   15906941 2024-11-13 22:40:45.686586  ...                  0                  0
+
+[5 rows x 7 columns]
+finished
+killall: chrome: no process killed
+554251
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: Available" class="sc-fHCFno eMIJrL" color="#FFFFFFFF" data-qa-id="port_status_pill_available">Available</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">19.8 mi / hour</p><p class="sc-cEEJxU ghAFTp">6.6 kW</p><p class="sc-cEEJxU ghAFTp">(J1772)</p></div></div>
+('554251', '2024-11-13 22:40:11.014815', 'available', 'in_use', '[{"Tesla Model Y": "11/13/2024"}, {"Jeep Wrangler": "11/13/2024"}, {"Tesla Model Y": "11/13/2024"}, {"Tesla Model Y": "11/12/2024"}, {"Tesla Model 3": "11/12/2024"}]', 0, 0)
+5426281
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+('5426281', '2024-11-13 22:40:19.672509', 'in_use', 'N/A', '[{"Unknown Car": "11/13/2024"}, {"Honda Prologue": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}]', 0, 0)
+5426291
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+('5426291', '2024-11-13 22:40:28.328424', 'in_use', 'N/A', '[{"Hyundai Kona EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}, {"Honda Prologue": "11/13/2024"}]', 0, 0)
+15906911
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906911', '2024-11-13 22:40:37.019301', 'in_use', 'in_use', '[{"Hyundai Ioniq 5": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Chevrolet Bolt EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Land Rover Range Rover Sport": "11/13/2024"}]', 0, 0)
+15906941
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906941', '2024-11-13 22:40:45.686586', 'in_use', 'in_use', '[{"Hyundai Kona EV": "11/13/2024"}, {"Chevrolet Bolt EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Chevrolet Bolt EUV": "11/13/2024"}]', 0, 0)
+  station_id                  timestamp  ... port_1_change_flag port_2_change_flag
+0     554251 2024-11-13 22:45:10.986492  ...                  0                  0
+1    5426281 2024-11-13 22:45:19.665516  ...                  0                  0
+2    5426291 2024-11-13 22:45:28.342545  ...                  0                  0
+3   15906911 2024-11-13 22:45:37.001151  ...                  0                  0
+4   15906941 2024-11-13 22:45:45.637338  ...                  0                  1
+
+[5 rows x 7 columns]
+finished
+killall: chrome: no process killed
+554251
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: Available" class="sc-fHCFno eMIJrL" color="#FFFFFFFF" data-qa-id="port_status_pill_available">Available</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">19.8 mi / hour</p><p class="sc-cEEJxU ghAFTp">6.6 kW</p><p class="sc-cEEJxU ghAFTp">(J1772)</p></div></div>
+('554251', '2024-11-13 22:45:10.986492', 'available', 'in_use', '[{"Tesla Model Y": "11/13/2024"}, {"Jeep Wrangler": "11/13/2024"}, {"Tesla Model Y": "11/13/2024"}, {"Tesla Model Y": "11/12/2024"}, {"Tesla Model 3": "11/12/2024"}]', 0, 0)
+5426281
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: Available" class="sc-fHCFno eMIJrL" color="#FFFFFFFF" data-qa-id="port_status_pill_available">Available</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+('5426281', '2024-11-13 22:45:19.665516', 'in_use', 'N/A', '[{"Unknown Car": "11/13/2024"}, {"Honda Prologue": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}]', 0, 0)
+5426291
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+('5426291', '2024-11-13 22:45:28.342545', 'in_use', 'N/A', '[{"Ford E-Transit": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}]', 0, 0)
+15906911
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906911', '2024-11-13 22:45:37.001151', 'in_use', 'in_use', '[{"Hyundai Ioniq 5": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Chevrolet Bolt EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Land Rover Range Rover Sport": "11/13/2024"}]', 0, 0)
+15906941
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906941', '2024-11-13 22:45:45.637338', 'in_use', 'available', '[{"Chevrolet Bolt EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Chevrolet Bolt EUV": "11/13/2024"}, {"Unknown Car": "11/12/2024"}]', 0, 1)
+  station_id                  timestamp  ... port_1_change_flag port_2_change_flag
+0     554251 2024-11-13 22:50:11.408120  ...                  0                  0
+1    5426281 2024-11-13 22:50:20.051268  ...                  0                  0
+2    5426291 2024-11-13 22:50:36.186910  ...                  0                  0
+3   15906911 2024-11-13 22:50:44.862102  ...                  0                  0
+4   15906941 2024-11-13 22:50:53.488095  ...                  0                  1
+
+[5 rows x 7 columns]
+finished
+killall: chrome: no process killed
+554251
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">19.8 mi / hour</p><p class="sc-cEEJxU ghAFTp">6.6 kW</p><p class="sc-cEEJxU ghAFTp">(J1772)</p></div></div>
+('554251', '2024-11-13 22:50:11.408120', 'available', 'in_use', '[{"Tesla Model Y": "11/13/2024"}, {"Jeep Wrangler": "11/13/2024"}, {"Tesla Model Y": "11/13/2024"}, {"Tesla Model Y": "11/12/2024"}, {"Tesla Model 3": "11/12/2024"}]', 0, 0)
+5426281
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+('5426281', '2024-11-13 22:50:20.051268', 'available', 'N/A', '[{"Unknown Car": "11/13/2024"}, {"Honda Prologue": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}]', 0, 0)
+5426291
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+('5426291', '2024-11-13 22:50:36.186910', 'in_use', 'N/A', '[{"Hyundai Kona EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}, {"Honda Prologue": "11/13/2024"}]', 0, 0)
+15906911
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906911', '2024-11-13 22:50:44.862102', 'in_use', 'in_use', '[{"Hyundai Ioniq 5": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Chevrolet Bolt EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Land Rover Range Rover Sport": "11/13/2024"}]', 0, 0)
+15906941
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906941', '2024-11-13 22:50:53.488095', 'in_use', 'in_use', '[{"Hyundai Kona EV": "11/13/2024"}, {"Chevrolet Bolt EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Chevrolet Bolt EUV": "11/13/2024"}]', 0, 1)
+  station_id                  timestamp  ... port_1_change_flag port_2_change_flag
+0     554251 2024-11-13 22:55:10.929160  ...                  0                  0
+1    5426281 2024-11-13 22:55:19.568543  ...                  1                  0
+2    5426291 2024-11-13 22:55:28.246651  ...                  0                  0
+3   15906911 2024-11-13 22:55:36.923888  ...                  0                  0
+4   15906941 2024-11-13 22:55:45.600958  ...                  0                  0
+
+[5 rows x 7 columns]
+finished
+killall: chrome: no process killed
+554251
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">19.8 mi / hour</p><p class="sc-cEEJxU ghAFTp">6.6 kW</p><p class="sc-cEEJxU ghAFTp">(J1772)</p></div></div>
+('554251', '2024-11-13 22:55:10.929160', 'in_use', 'in_use', '[{"Tesla Model Y": "11/13/2024"}, {"Jeep Wrangler": "11/13/2024"}, {"Tesla Model Y": "11/13/2024"}, {"Tesla Model Y": "11/12/2024"}, {"Tesla Model 3": "11/12/2024"}]', 0, 0)
+5426281
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+('5426281', '2024-11-13 22:55:19.568543', 'in_use', 'N/A', '[{"Hyundai Kona EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Honda Prologue": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}]', 1, 0)
+5426291
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: Available" class="sc-fHCFno eMIJrL" color="#FFFFFFFF" data-qa-id="port_status_pill_available">Available</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">187.5 mi / hour</p><p class="sc-cEEJxU ghAFTp">125 kW</p><p class="sc-cEEJxU ghAFTp">(DC Fast)</p></div></div>
+('5426291', '2024-11-13 22:55:28.246651', 'in_use', 'N/A', '[{"Hyundai Kona EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Hyundai Kona EV": "11/13/2024"}, {"Honda Prologue": "11/13/2024"}]', 0, 0)
+15906911
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906911', '2024-11-13 22:55:36.923888', 'in_use', 'in_use', '[{"Hyundai Ioniq 5": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Chevrolet Bolt EV": "11/13/2024"}, {"Kia Niro EV": "11/13/2024"}, {"Land Rover Range Rover Sport": "11/13/2024"}]', 0, 0)
+15906941
+<div class="sc-fPXMVe sc-feUZmu sc-elxqWl gdLKmB hxpBsY jMwHIX" data-qa-id="port_1"><div class="sc-gFqAkR sc-fUnMCh sc-feNupb dcOspJ gxCHVP jTLVZJ"><span aria-label="Station Status: In Use" class="sc-fHCFno jVERGd" color="#FFFFFFFF" data-qa-id="port_status_pill_in_use">In Use</span></div><div class="sc-dxUMQK gDdSqj"><p class="sc-cEEJxU ghAFTp">960 mi / hour</p><p class="sc-cEEJxU ghAFTp">320 kW</p><p class="sc-cEEJxU ghAFTp">(CCS1)</p></div></div>
+('15906941', '2024-11-13 22:55:45.600958', 'in_use', 'in_use', '[{"Hyundai Kona EV": "11/13/2024"}, {"Chevrolet Bolt EV": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Unknown Car": "11/13/2024"}, {"Chevrolet Bolt EUV": "11/13/2024"}]', 0, 0)
+  station_id                  timestamp  ... port_1_change_flag port_2_change_flag
+0     554251 2024-11-13 23:00:11.299144  ...                  0                  0
+1    5426281 2024-11-13 23:00:20.281164  ...                  0                  0
+2    5426291 2024-11-13 23:00:28.945150  ...                  1                  0
+3   15906911 2024-11-13 23:00:37.615105  ...                  0                  0
+4   15906941 2024-11-13 23:00:46.254284  ...                  0                  0
+
+[5 rows x 7 columns]
+finished

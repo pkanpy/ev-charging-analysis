@@ -1,14 +1,16 @@
 ### EV charging Webscrape ###
 # Puppy edition
 # reqs:
-    # apt get update
+    # apt-get update
+    #### if failed, first try: apt-mark unhold $(apt-mark showhold)
     # apt install python3.11-venv
     # portable chrome: https://www.forum.puppylinux.com/viewtopic.php?t=12402&sid=62ae50f256cb7109a36165ec82473d27
     # chromedriver stuff: https://stackoverflow.com/questions/48649230/how-to-update-chromedriver-on-ubuntu
 	# use absolute paths
 	# to test in terminal: 
 	#     /bin/sh -c "cd ~ && /root/ev-charging-analysis/venv/bin/python /root/ev-charging-analysis/main.py"
-	#     */5 * * * *     is format, use above shell command to run
+	#     */5 * * * *     is format in crontab -e, use above shell command to run
+	# set up git, need to store credentials:  git config --global credential.helper store
 
 """
 Description: This program scrapes charging data from the website 'Chargepoint'.

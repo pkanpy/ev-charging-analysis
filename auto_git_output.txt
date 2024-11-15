@@ -34,3 +34,8 @@
  2 files changed, 3418 insertions(+)
 [main 2e43755] auto
  1 file changed, 2 insertions(+)
+fatal: invalid gitfile format: /root/ev-charging-analysis/auto_git_error.txt
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.

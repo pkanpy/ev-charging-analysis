@@ -39,3 +39,8 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+fatal: invalid gitfile format: /root/ev-charging-analysis/auto_git_error.txt
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.

@@ -134,3 +134,20 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[main a054480] auto push from ev-webscraper
+ 3 files changed, 24869 insertions(+)
+fatal: unable to access 'https://github.com/pkanpy/ev-charging-analysis.git/': Could not resolve host: github.com
+fatal: Unable to create '/root/ev-charging-analysis/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/root/ev-charging-analysis/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.

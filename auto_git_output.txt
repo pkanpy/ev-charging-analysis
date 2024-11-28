@@ -241,3 +241,21 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[main f01b5ee] auto push from ev-webscraper
+ 3 files changed, 23714 insertions(+)
+To https://github.com/pkanpy/ev-charging-analysis.git
+   03f3f3e..f01b5ee  main -> main
+fatal: Unable to create '/root/ev-charging-analysis/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/root/ev-charging-analysis/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.

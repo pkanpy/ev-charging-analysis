@@ -352,3 +352,24 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[main a410fdd] auto push from ev-webscraper
+ 3 files changed, 23397 insertions(+)
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File ev-output.txt is 53.56 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/pkanpy/ev-charging-analysis.git
+   dac3322..a410fdd  main -> main
+fatal: Unable to create '/root/ev-charging-analysis/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/root/ev-charging-analysis/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.

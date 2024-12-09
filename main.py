@@ -59,7 +59,7 @@ def get_status_data(url, station_id):
 
         # get the port 1 status
         port_1 = soup.find('div', {'data-qa-id': 'port_1'})
-        print(port_1)
+        # print(port_1)
 
         # refresh and retry to load site if failed
         try_count = 1
@@ -71,7 +71,7 @@ def get_status_data(url, station_id):
             page_source = driver.page_source
             soup = BeautifulSoup(page_source, features='html.parser')
             port_1 = soup.find('div', {'data-qa-id': 'port_1'})
-            print(port_1)
+            # print(port_1)
             try_count += 1
             print('try ' + str(try_count))
         # If failed, return failure
@@ -194,7 +194,7 @@ def get_station_info(url, station_id):
 if __name__ == '__main__':
     # initialize url, stations, sqlite connection, and chrome webdriver (headless)
     ev_url = "https://driver.chargepoint.com/stations/"
-    station_list = ['554251', '5426281', '5426291','15906911','15906941']
+    station_list = ['554251', '5426281', '5426291','15906911','15906941','16001231','5404641','16001841','5404611']
     state_table_name = 'charging_station_states'
     info_table_name = 'charging_station_info'
     conn = sqlite3.connect('/root/ev-charging-analysis/ev_charging.db')
@@ -209,6 +209,7 @@ if __name__ == '__main__':
     options.add_experimental_option('useAutomationExtension', False)
     options.add_argument('--disable-blink-features=AutomationControlled')
     options.add_argument('--headless=new')
+    # options.add_experimental_option('detach', True)^M
 
     # ua = UserAgent()
     # user_agent = ua.random
@@ -229,13 +230,13 @@ if __name__ == '__main__':
     info_df_list = []
     for station in station_list:
         # scrape status data
-        print(station)
+        # print(station)
         current_station_state_df = get_status_data(ev_url, station)
 
         # get the last row of data for the station put into the database
         sql = f"SELECT * FROM {state_table_name} where station_id = {station} order by timestamp DESC limit 1"
         last_station_state = conn.cursor().execute(sql).fetchone()
-        print(last_station_state)
+        # print(last_station_state)
 
         # compare the last station data to the first and flag a change if found
         # !! flawed !!
@@ -273,7 +274,7 @@ if __name__ == '__main__':
     # combine all station data, if issues, there should be some error notification
     station_state_update_df = pd.concat(state_df_list, ignore_index=True)
     if 'failed' in station_state_update_df['car_charge_slice'].to_list():
-        send = 'error email notification'
+        print('error -- failed station state update')
 
     # insert data into sqlite database regardless
     rows_inserted = station_state_update_df.to_sql(state_table_name, conn, if_exists='append', index=False)
@@ -281,11 +282,12 @@ if __name__ == '__main__':
         station_info_update_df = pd.concat(info_df_list, ignore_index=True)
         if ('failed' in station_info_update_df['port_1_info'].to_list() or
                 'failed' in station_info_update_df['port_2_info'].to_list()):
-            send = 'error email notification'
+            print('error -- failed station info update')
         info_inserted = station_info_update_df.to_sql(info_table_name, conn, if_exists='append', index=False)
 
-    print(station_state_update_df)
+
     print('finished')
+    print(datetime.datetime.now())
     driver.quit()
     time.sleep(2)
     os.system('killall chrome')

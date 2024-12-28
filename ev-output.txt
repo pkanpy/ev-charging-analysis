@@ -12568,3 +12568,912 @@ finished
 killall: chrome: no process killed
 finished
 2024-12-27 07:01:22.378716
+killall: chrome: no process killed
+finished
+2024-12-27 07:06:21.502478
+killall: chrome: no process killed
+finished
+2024-12-27 07:11:21.571255
+killall: chrome: no process killed
+finished
+2024-12-27 07:16:21.629416
+killall: chrome: no process killed
+finished
+2024-12-27 07:21:21.709773
+killall: chrome: no process killed
+finished
+2024-12-27 07:26:21.235319
+killall: chrome: no process killed
+finished
+2024-12-27 07:31:22.369624
+killall: chrome: no process killed
+finished
+2024-12-27 07:36:21.596592
+killall: chrome: no process killed
+finished
+2024-12-27 07:41:21.576844
+killall: chrome: no process killed
+finished
+2024-12-27 07:46:21.799044
+killall: chrome: no process killed
+finished
+2024-12-27 07:51:21.468037
+killall: chrome: no process killed
+finished
+2024-12-27 07:56:21.576001
+killall: chrome: no process killed
+finished
+2024-12-27 08:01:21.206960
+killall: chrome: no process killed
+finished
+2024-12-27 08:06:21.621327
+killall: chrome: no process killed
+finished
+2024-12-27 08:11:21.303376
+killall: chrome: no process killed
+finished
+2024-12-27 08:16:21.766999
+killall: chrome: no process killed
+finished
+2024-12-27 08:21:21.365607
+killall: chrome: no process killed
+finished
+2024-12-27 08:26:21.674888
+killall: chrome: no process killed
+finished
+2024-12-27 08:31:21.932083
+killall: chrome: no process killed
+finished
+2024-12-27 08:36:22.068546
+killall: chrome: no process killed
+finished
+2024-12-27 08:41:21.768084
+killall: chrome: no process killed
+finished
+2024-12-27 08:46:22.205911
+killall: chrome: no process killed
+finished
+2024-12-27 08:51:21.356145
+killall: chrome: no process killed
+finished
+2024-12-27 08:56:21.863756
+killall: chrome: no process killed
+finished
+2024-12-27 09:01:21.521173
+killall: chrome: no process killed
+finished
+2024-12-27 09:06:22.537158
+killall: chrome: no process killed
+finished
+2024-12-27 09:11:21.360829
+killall: chrome: no process killed
+finished
+2024-12-27 09:16:21.543532
+killall: chrome: no process killed
+finished
+2024-12-27 09:21:21.581340
+killall: chrome: no process killed
+finished
+2024-12-27 09:26:20.710277
+killall: chrome: no process killed
+finished
+2024-12-27 09:31:21.910796
+killall: chrome: no process killed
+finished
+2024-12-27 09:36:21.532158
+killall: chrome: no process killed
+finished
+2024-12-27 09:41:21.527038
+killall: chrome: no process killed
+finished
+2024-12-27 09:46:21.822898
+killall: chrome: no process killed
+try 2
+finished
+2024-12-27 09:51:33.815680
+killall: chrome: no process killed
+finished
+2024-12-27 09:56:21.197654
+killall: chrome: no process killed
+finished
+2024-12-27 10:01:20.688975
+killall: chrome: no process killed
+finished
+2024-12-27 10:06:21.800538
+killall: chrome: no process killed
+finished
+2024-12-27 10:11:21.728239
+killall: chrome: no process killed
+finished
+2024-12-27 10:16:21.596122
+killall: chrome: no process killed
+finished
+2024-12-27 10:21:21.953300
+killall: chrome: no process killed
+finished
+2024-12-27 10:26:21.373106
+killall: chrome: no process killed
+finished
+2024-12-27 10:31:21.234490
+killall: chrome: no process killed
+finished
+2024-12-27 10:36:21.791403
+killall: chrome: no process killed
+finished
+2024-12-27 10:41:21.462159
+killall: chrome: no process killed
+try 2
+finished
+2024-12-27 10:46:34.172227
+killall: chrome: no process killed
+finished
+2024-12-27 10:51:21.730219
+killall: chrome: no process killed
+finished
+2024-12-27 10:56:20.943646
+killall: chrome: no process killed
+try 2
+finished
+2024-12-27 11:01:34.203897
+killall: chrome: no process killed
+finished
+2024-12-27 11:06:22.138748
+killall: chrome: no process killed
+try 2
+try 3
+try 4
+try 5
+try 6
+failed
+
+ChargePoint Driver Portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You need to enable JavaScript to run this app.
+Unable to load pagePlease refresh the page to try again.
+
+try 2
+error -- failed station state update
+finished
+2024-12-27 11:13:25.148449
+killall: chrome: no process killed
+finished
+2024-12-27 11:16:21.992989
+killall: chrome: no process killed
+finished
+2024-12-27 11:21:21.748803
+killall: chrome: no process killed
+finished
+2024-12-27 11:26:21.344083
+killall: chrome: no process killed
+finished
+2024-12-27 11:31:21.538085
+killall: chrome: no process killed
+finished
+2024-12-27 11:36:21.745487
+killall: chrome: no process killed
+finished
+2024-12-27 11:41:21.702908
+killall: chrome: no process killed
+finished
+2024-12-27 11:46:21.916453
+killall: chrome: no process killed
+finished
+2024-12-27 11:51:20.333472
+killall: chrome: no process killed
+finished
+2024-12-27 11:56:20.981772
+killall: chrome: no process killed
+finished
+2024-12-27 12:01:21.423397
+killall: chrome: no process killed
+finished
+2024-12-27 12:06:20.566422
+killall: chrome: no process killed
+finished
+2024-12-27 12:11:20.636308
+killall: chrome: no process killed
+finished
+2024-12-27 12:16:20.838069
+killall: chrome: no process killed
+finished
+2024-12-27 12:21:21.086174
+killall: chrome: no process killed
+finished
+2024-12-27 12:26:21.053228
+killall: chrome: no process killed
+finished
+2024-12-27 12:31:20.698547
+killall: chrome: no process killed
+finished
+2024-12-27 12:36:20.572583
+killall: chrome: no process killed
+finished
+2024-12-27 12:41:20.698951
+killall: chrome: no process killed
+finished
+2024-12-27 12:46:20.618776
+killall: chrome: no process killed
+finished
+2024-12-27 12:51:21.255331
+killall: chrome: no process killed
+finished
+2024-12-27 12:56:20.690191
+killall: chrome: no process killed
+finished
+2024-12-27 13:01:20.424685
+killall: chrome: no process killed
+finished
+2024-12-27 13:06:20.444634
+killall: chrome: no process killed
+finished
+2024-12-27 13:11:19.986501
+killall: chrome: no process killed
+finished
+2024-12-27 13:16:20.873762
+killall: chrome: no process killed
+finished
+2024-12-27 13:21:20.199360
+killall: chrome: no process killed
+finished
+2024-12-27 13:26:19.893063
+killall: chrome: no process killed
+finished
+2024-12-27 13:31:20.056413
+killall: chrome: no process killed
+finished
+2024-12-27 13:36:20.986996
+killall: chrome: no process killed
+finished
+2024-12-27 13:41:20.770775
+killall: chrome: no process killed
+finished
+2024-12-27 13:46:20.017616
+killall: chrome: no process killed
+finished
+2024-12-27 13:51:20.436026
+killall: chrome: no process killed
+finished
+2024-12-27 13:56:20.259030
+killall: chrome: no process killed
+finished
+2024-12-27 14:01:20.035549
+killall: chrome: no process killed
+finished
+2024-12-27 14:06:21.135041
+killall: chrome: no process killed
+finished
+2024-12-27 14:11:21.450674
+killall: chrome: no process killed
+finished
+2024-12-27 14:16:20.818392
+killall: chrome: no process killed
+finished
+2024-12-27 14:21:20.567133
+killall: chrome: no process killed
+finished
+2024-12-27 14:26:21.352774
+killall: chrome: no process killed
+finished
+2024-12-27 14:31:20.568224
+killall: chrome: no process killed
+finished
+2024-12-27 14:36:20.017247
+killall: chrome: no process killed
+finished
+2024-12-27 14:41:20.607020
+killall: chrome: no process killed
+finished
+2024-12-27 14:46:20.102336
+killall: chrome: no process killed
+finished
+2024-12-27 14:51:20.860984
+killall: chrome: no process killed
+finished
+2024-12-27 14:56:21.122585
+killall: chrome: no process killed
+finished
+2024-12-27 15:01:21.031726
+killall: chrome: no process killed
+finished
+2024-12-27 15:06:20.386044
+killall: chrome: no process killed
+finished
+2024-12-27 15:11:20.311198
+killall: chrome: no process killed
+finished
+2024-12-27 15:16:20.558197
+killall: chrome: no process killed
+finished
+2024-12-27 15:21:21.953119
+killall: chrome: no process killed
+finished
+2024-12-27 15:26:20.482282
+killall: chrome: no process killed
+finished
+2024-12-27 15:31:21.010675
+killall: chrome: no process killed
+finished
+2024-12-27 15:36:21.158910
+killall: chrome: no process killed
+finished
+2024-12-27 15:41:21.421550
+killall: chrome: no process killed
+finished
+2024-12-27 15:46:20.512752
+killall: chrome: no process killed
+finished
+2024-12-27 15:51:21.420008
+killall: chrome: no process killed
+finished
+2024-12-27 15:56:20.394341
+killall: chrome: no process killed
+finished
+2024-12-27 16:01:20.857619
+killall: chrome: no process killed
+finished
+2024-12-27 16:06:21.126546
+killall: chrome: no process killed
+finished
+2024-12-27 16:11:20.785999
+killall: chrome: no process killed
+finished
+2024-12-27 16:16:20.532460
+killall: chrome: no process killed
+finished
+2024-12-27 16:21:20.589679
+killall: chrome: no process killed
+finished
+2024-12-27 16:26:20.628735
+killall: chrome: no process killed
+finished
+2024-12-27 16:31:20.408890
+killall: chrome: no process killed
+finished
+2024-12-27 16:36:20.511051
+killall: chrome: no process killed
+finished
+2024-12-27 16:41:20.707649
+killall: chrome: no process killed
+finished
+2024-12-27 16:46:22.100909
+killall: chrome: no process killed
+finished
+2024-12-27 16:51:20.650908
+killall: chrome: no process killed
+finished
+2024-12-27 16:56:20.563088
+killall: chrome: no process killed
+finished
+2024-12-27 17:01:20.272062
+killall: chrome: no process killed
+finished
+2024-12-27 17:06:20.287247
+killall: chrome: no process killed
+finished
+2024-12-27 17:11:21.671325
+killall: chrome: no process killed
+finished
+2024-12-27 17:16:21.146714
+killall: chrome: no process killed
+finished
+2024-12-27 17:21:21.022029
+killall: chrome: no process killed
+finished
+2024-12-27 17:26:21.039211
+killall: chrome: no process killed
+finished
+2024-12-27 17:31:20.624618
+killall: chrome: no process killed
+finished
+2024-12-27 17:36:21.558139
+killall: chrome: no process killed
+finished
+2024-12-27 17:41:21.106111
+killall: chrome: no process killed
+finished
+2024-12-27 17:46:20.902904
+killall: chrome: no process killed
+finished
+2024-12-27 17:51:20.786847
+killall: chrome: no process killed
+finished
+2024-12-27 17:56:21.720943
+killall: chrome: no process killed
+finished
+2024-12-27 18:01:20.814711
+killall: chrome: no process killed
+finished
+2024-12-27 18:06:20.442581
+killall: chrome: no process killed
+finished
+2024-12-27 18:11:21.580331
+killall: chrome: no process killed
+finished
+2024-12-27 18:16:21.415262
+killall: chrome: no process killed
+finished
+2024-12-27 18:21:19.965277
+killall: chrome: no process killed
+finished
+2024-12-27 18:26:20.784152
+killall: chrome: no process killed
+finished
+2024-12-27 18:31:20.673660
+killall: chrome: no process killed
+finished
+2024-12-27 18:36:20.527739
+killall: chrome: no process killed
+finished
+2024-12-27 18:41:20.815698
+killall: chrome: no process killed
+finished
+2024-12-27 18:46:20.408045
+killall: chrome: no process killed
+finished
+2024-12-27 18:51:20.903455
+killall: chrome: no process killed
+finished
+2024-12-27 18:56:21.260899
+killall: chrome: no process killed
+finished
+2024-12-27 19:01:21.197010
+killall: chrome: no process killed
+finished
+2024-12-27 19:06:21.495382
+killall: chrome: no process killed
+finished
+2024-12-27 19:11:21.176388
+killall: chrome: no process killed
+finished
+2024-12-27 19:16:20.962725
+killall: chrome: no process killed
+finished
+2024-12-27 19:21:20.849562
+killall: chrome: no process killed
+finished
+2024-12-27 19:26:21.702775
+killall: chrome: no process killed
+finished
+2024-12-27 19:31:21.003589
+killall: chrome: no process killed
+finished
+2024-12-27 19:36:20.703074
+killall: chrome: no process killed
+finished
+2024-12-27 19:41:21.315852
+killall: chrome: no process killed
+finished
+2024-12-27 19:46:21.446414
+killall: chrome: no process killed
+finished
+2024-12-27 19:51:20.838012
+killall: chrome: no process killed
+finished
+2024-12-27 19:56:21.856347
+killall: chrome: no process killed
+finished
+2024-12-27 20:01:20.778668
+killall: chrome: no process killed
+finished
+2024-12-27 20:06:20.708769
+killall: chrome: no process killed
+finished
+2024-12-27 20:11:21.230803
+killall: chrome: no process killed
+finished
+2024-12-27 20:16:20.933507
+killall: chrome: no process killed
+finished
+2024-12-27 20:21:20.713525
+killall: chrome: no process killed
+finished
+2024-12-27 20:26:21.554578
+killall: chrome: no process killed
+finished
+2024-12-27 20:31:21.442595
+killall: chrome: no process killed
+finished
+2024-12-27 20:36:21.376894
+killall: chrome: no process killed
+finished
+2024-12-27 20:41:21.698718
+killall: chrome: no process killed
+finished
+2024-12-27 20:46:21.180640
+killall: chrome: no process killed
+finished
+2024-12-27 20:51:20.861441
+killall: chrome: no process killed
+finished
+2024-12-27 20:56:21.415891
+killall: chrome: no process killed
+finished
+2024-12-27 21:01:20.613240
+killall: chrome: no process killed
+finished
+2024-12-27 21:06:20.606127
+killall: chrome: no process killed
+finished
+2024-12-27 21:11:20.773342
+killall: chrome: no process killed
+finished
+2024-12-27 21:16:21.104556
+killall: chrome: no process killed
+finished
+2024-12-27 21:21:21.225527
+killall: chrome: no process killed
+finished
+2024-12-27 21:26:20.968275
+killall: chrome: no process killed
+finished
+2024-12-27 21:31:21.722768
+killall: chrome: no process killed
+finished
+2024-12-27 21:36:20.905370
+killall: chrome: no process killed
+try 2
+finished
+2024-12-27 21:41:33.243930
+killall: chrome: no process killed
+try 2
+finished
+2024-12-27 21:46:34.316900
+killall: chrome: no process killed
+finished
+2024-12-27 21:51:20.629146
+killall: chrome: no process killed
+finished
+2024-12-27 21:56:21.536180
+killall: chrome: no process killed
+finished
+2024-12-27 22:01:21.508802
+killall: chrome: no process killed
+finished
+2024-12-27 22:06:21.485755
+killall: chrome: no process killed
+finished
+2024-12-27 22:11:20.942633
+killall: chrome: no process killed
+finished
+2024-12-27 22:16:22.033785
+killall: chrome: no process killed
+finished
+2024-12-27 22:21:21.304021
+killall: chrome: no process killed
+finished
+2024-12-27 22:26:24.727073
+killall: chrome: no process killed
+finished
+2024-12-27 22:31:21.432447
+killall: chrome: no process killed
+finished
+2024-12-27 22:36:20.749244
+killall: chrome: no process killed
+finished
+2024-12-27 22:41:21.799582
+killall: chrome: no process killed
+finished
+2024-12-27 22:46:21.748695
+killall: chrome: no process killed
+finished
+2024-12-27 22:51:21.619174
+killall: chrome: no process killed
+finished
+2024-12-27 22:56:21.437210
+killall: chrome: no process killed
+finished
+2024-12-27 23:01:21.602653
+killall: chrome: no process killed
+finished
+2024-12-27 23:06:20.872322
+killall: chrome: no process killed
+finished
+2024-12-27 23:11:20.941021
+killall: chrome: no process killed
+finished
+2024-12-27 23:16:22.035849
+killall: chrome: no process killed
+finished
+2024-12-27 23:21:20.795358
+killall: chrome: no process killed
+finished
+2024-12-27 23:26:21.318704
+killall: chrome: no process killed
+finished
+2024-12-27 23:31:21.443353
+killall: chrome: no process killed
+finished
+2024-12-27 23:36:21.870199
+killall: chrome: no process killed
+finished
+2024-12-27 23:41:20.948266
+killall: chrome: no process killed
+finished
+2024-12-27 23:46:21.610460
+killall: chrome: no process killed
+finished
+2024-12-27 23:51:20.729561
+killall: chrome: no process killed
+finished
+2024-12-27 23:56:21.552946
+killall: chrome: no process killed
+finished
+2024-12-28 00:01:21.527583
+killall: chrome: no process killed
+finished
+2024-12-28 00:06:21.136526
+killall: chrome: no process killed
+finished
+2024-12-28 00:11:21.869322
+killall: chrome: no process killed
+finished
+2024-12-28 00:16:22.400166
+killall: chrome: no process killed
+finished
+2024-12-28 00:21:21.770449
+killall: chrome: no process killed
+finished
+2024-12-28 00:26:20.760020
+killall: chrome: no process killed
+finished
+2024-12-28 00:31:21.502175
+killall: chrome: no process killed
+finished
+2024-12-28 00:36:20.526478
+killall: chrome: no process killed
+finished
+2024-12-28 00:41:21.487483
+killall: chrome: no process killed
+finished
+2024-12-28 00:46:21.098925
+killall: chrome: no process killed
+finished
+2024-12-28 00:51:20.899139
+killall: chrome: no process killed
+finished
+2024-12-28 00:56:21.756383
+killall: chrome: no process killed
+finished
+2024-12-28 01:01:21.775467
+killall: chrome: no process killed
+finished
+2024-12-28 01:06:21.849885
+killall: chrome: no process killed
+finished
+2024-12-28 01:11:20.783962
+killall: chrome: no process killed
+finished
+2024-12-28 01:16:21.939274
+killall: chrome: no process killed
+finished
+2024-12-28 01:21:20.885950
+killall: chrome: no process killed
+finished
+2024-12-28 01:26:21.299288
+killall: chrome: no process killed
+finished
+2024-12-28 01:31:21.656440
+killall: chrome: no process killed
+finished
+2024-12-28 01:36:21.504867
+killall: chrome: no process killed
+finished
+2024-12-28 01:41:21.207261
+killall: chrome: no process killed
+finished
+2024-12-28 01:46:21.253888
+killall: chrome: no process killed
+finished
+2024-12-28 01:51:21.465578
+killall: chrome: no process killed
+finished
+2024-12-28 01:56:20.755351
+killall: chrome: no process killed
+finished
+2024-12-28 02:01:20.884143
+killall: chrome: no process killed
+finished
+2024-12-28 02:06:20.302797
+killall: chrome: no process killed
+finished
+2024-12-28 02:11:21.325871
+killall: chrome: no process killed
+finished
+2024-12-28 02:16:21.272981
+killall: chrome: no process killed
+finished
+2024-12-28 02:21:21.012793
+killall: chrome: no process killed
+finished
+2024-12-28 02:26:21.641953
+killall: chrome: no process killed
+finished
+2024-12-28 02:31:22.073239
+killall: chrome: no process killed
+finished
+2024-12-28 02:36:21.299942
+killall: chrome: no process killed
+finished
+2024-12-28 02:41:21.649305
+killall: chrome: no process killed
+finished
+2024-12-28 02:46:20.960807
+killall: chrome: no process killed
+finished
+2024-12-28 02:51:20.780115
+killall: chrome: no process killed
+finished
+2024-12-28 02:56:21.258347
+killall: chrome: no process killed
+finished
+2024-12-28 03:01:21.097830
+killall: chrome: no process killed
+finished
+2024-12-28 03:06:20.739923
+killall: chrome: no process killed
+finished
+2024-12-28 03:11:21.996991
+killall: chrome: no process killed
+finished
+2024-12-28 03:16:21.886973
+killall: chrome: no process killed
+finished
+2024-12-28 03:21:21.706218
+killall: chrome: no process killed
+finished
+2024-12-28 03:26:21.143587
+killall: chrome: no process killed
+finished
+2024-12-28 03:31:20.929943
+killall: chrome: no process killed
+finished
+2024-12-28 03:36:21.402167
+killall: chrome: no process killed
+finished
+2024-12-28 03:41:21.475515
+killall: chrome: no process killed
+finished
+2024-12-28 03:46:21.070704
+killall: chrome: no process killed
+finished
+2024-12-28 03:51:21.804301
+killall: chrome: no process killed
+finished
+2024-12-28 03:56:21.252815
+killall: chrome: no process killed
+finished
+2024-12-28 04:01:21.999050
+killall: chrome: no process killed
+finished
+2024-12-28 04:06:21.129461
+killall: chrome: no process killed
+finished
+2024-12-28 04:11:21.749199
+killall: chrome: no process killed
+finished
+2024-12-28 04:16:22.001302
+killall: chrome: no process killed
+finished
+2024-12-28 04:21:21.469161
+killall: chrome: no process killed
+finished
+2024-12-28 04:26:21.341939
+killall: chrome: no process killed
+finished
+2024-12-28 04:31:21.371609
+killall: chrome: no process killed
+finished
+2024-12-28 04:36:21.934944
+killall: chrome: no process killed
+finished
+2024-12-28 04:41:21.205055
+killall: chrome: no process killed
+finished
+2024-12-28 04:46:21.818451
+killall: chrome: no process killed
+finished
+2024-12-28 04:51:20.770772
+killall: chrome: no process killed
+finished
+2024-12-28 04:56:21.299992
+killall: chrome: no process killed
+finished
+2024-12-28 05:01:21.209984
+killall: chrome: no process killed
+finished
+2024-12-28 05:06:20.627546
+killall: chrome: no process killed
+finished
+2024-12-28 05:11:21.977360
+killall: chrome: no process killed
+finished
+2024-12-28 05:16:21.612651
+killall: chrome: no process killed
+finished
+2024-12-28 05:21:21.404733
+killall: chrome: no process killed
+finished
+2024-12-28 05:26:21.191029
+killall: chrome: no process killed
+finished
+2024-12-28 05:31:21.850565
+killall: chrome: no process killed
+finished
+2024-12-28 05:36:21.654313
+killall: chrome: no process killed
+finished
+2024-12-28 05:41:21.480708
+killall: chrome: no process killed
+finished
+2024-12-28 05:46:21.694258
+killall: chrome: no process killed
+finished
+2024-12-28 05:51:20.899280
+killall: chrome: no process killed
+finished
+2024-12-28 05:56:20.633466
+killall: chrome: no process killed
+finished
+2024-12-28 06:01:21.981234
+killall: chrome: no process killed
+finished
+2024-12-28 06:06:21.547197
+killall: chrome: no process killed
+finished
+2024-12-28 06:11:21.910027
+killall: chrome: no process killed
+finished
+2024-12-28 06:16:21.633620
+killall: chrome: no process killed
+finished
+2024-12-28 06:21:22.036114
+killall: chrome: no process killed
+finished
+2024-12-28 06:26:21.718782
+killall: chrome: no process killed
+finished
+2024-12-28 06:31:21.647445
+killall: chrome: no process killed
+try 2
+finished
+2024-12-28 06:36:34.530281
+killall: chrome: no process killed
+finished
+2024-12-28 06:41:21.383913
+killall: chrome: no process killed
+finished
+2024-12-28 06:46:21.276647
+killall: chrome: no process killed
+finished
+2024-12-28 06:51:21.616574
+killall: chrome: no process killed
+finished
+2024-12-28 06:56:21.367684
+killall: chrome: no process killed
+finished
+2024-12-28 07:01:21.692580

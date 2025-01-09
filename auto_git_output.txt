@@ -8839,3 +8839,7 @@ To https://github.com/pkanpy/ev-charging-analysis.git
  3 files changed, 972 insertions(+)
 To https://github.com/pkanpy/ev-charging-analysis.git
    134bc98..1efce62  main -> main
+[main b8ed7b2] auto push from ev-webscraper
+ 3 files changed, 989 insertions(+)
+To https://github.com/pkanpy/ev-charging-analysis.git
+   1efce62..b8ed7b2  main -> main

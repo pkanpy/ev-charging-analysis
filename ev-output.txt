@@ -23326,3 +23326,975 @@ finished
 killall: chrome: no process killed
 finished
 2025-01-08 07:01:21.199299
+killall: chrome: no process killed
+finished
+2025-01-08 07:06:20.943715
+killall: chrome: no process killed
+finished
+2025-01-08 07:11:20.776915
+killall: chrome: no process killed
+finished
+2025-01-08 07:16:21.310218
+killall: chrome: no process killed
+finished
+2025-01-08 07:21:20.938055
+killall: chrome: no process killed
+finished
+2025-01-08 07:26:21.447702
+killall: chrome: no process killed
+finished
+2025-01-08 07:31:21.481302
+killall: chrome: no process killed
+finished
+2025-01-08 07:36:21.451459
+killall: chrome: no process killed
+finished
+2025-01-08 07:41:21.585743
+killall: chrome: no process killed
+finished
+2025-01-08 07:46:20.850417
+killall: chrome: no process killed
+finished
+2025-01-08 07:51:21.100583
+killall: chrome: no process killed
+finished
+2025-01-08 07:56:21.055741
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 08:01:34.314224
+killall: chrome: no process killed
+finished
+2025-01-08 08:06:21.220412
+killall: chrome: no process killed
+finished
+2025-01-08 08:11:21.530341
+killall: chrome: no process killed
+finished
+2025-01-08 08:16:21.548522
+killall: chrome: no process killed
+finished
+2025-01-08 08:21:21.080737
+killall: chrome: no process killed
+finished
+2025-01-08 08:26:20.930333
+killall: chrome: no process killed
+finished
+2025-01-08 08:31:21.055724
+killall: chrome: no process killed
+finished
+2025-01-08 08:36:21.040756
+killall: chrome: no process killed
+finished
+2025-01-08 08:41:21.585765
+killall: chrome: no process killed
+finished
+2025-01-08 08:46:21.282032
+killall: chrome: no process killed
+finished
+2025-01-08 08:51:20.787171
+killall: chrome: no process killed
+finished
+2025-01-08 08:56:21.224509
+killall: chrome: no process killed
+finished
+2025-01-08 09:01:20.783602
+killall: chrome: no process killed
+finished
+2025-01-08 09:06:20.780375
+killall: chrome: no process killed
+finished
+2025-01-08 09:11:21.179356
+killall: chrome: no process killed
+finished
+2025-01-08 09:16:21.216530
+killall: chrome: no process killed
+finished
+2025-01-08 09:21:21.611736
+killall: chrome: no process killed
+finished
+2025-01-08 09:26:21.128550
+killall: chrome: no process killed
+finished
+2025-01-08 09:31:20.906370
+killall: chrome: no process killed
+finished
+2025-01-08 09:36:21.392767
+killall: chrome: no process killed
+finished
+2025-01-08 09:41:21.489011
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 09:46:34.561982
+killall: chrome: no process killed
+finished
+2025-01-08 09:51:21.225511
+killall: chrome: no process killed
+finished
+2025-01-08 09:56:21.936246
+killall: chrome: no process killed
+finished
+2025-01-08 10:01:21.159424
+killall: chrome: no process killed
+finished
+2025-01-08 10:06:21.142431
+killall: chrome: no process killed
+finished
+2025-01-08 10:11:21.211694
+killall: chrome: no process killed
+finished
+2025-01-08 10:16:21.006062
+killall: chrome: no process killed
+finished
+2025-01-08 10:21:21.027834
+killall: chrome: no process killed
+finished
+2025-01-08 10:26:21.603829
+killall: chrome: no process killed
+finished
+2025-01-08 10:31:20.815904
+killall: chrome: no process killed
+finished
+2025-01-08 10:36:21.373608
+killall: chrome: no process killed
+finished
+2025-01-08 10:41:21.780606
+killall: chrome: no process killed
+finished
+2025-01-08 10:46:20.957648
+killall: chrome: no process killed
+finished
+2025-01-08 10:51:21.340519
+killall: chrome: no process killed
+finished
+2025-01-08 10:56:21.301995
+killall: chrome: no process killed
+finished
+2025-01-08 11:01:21.283606
+killall: chrome: no process killed
+finished
+2025-01-08 11:06:21.312343
+killall: chrome: no process killed
+finished
+2025-01-08 11:11:20.846287
+killall: chrome: no process killed
+finished
+2025-01-08 11:16:22.232418
+killall: chrome: no process killed
+finished
+2025-01-08 11:21:21.517145
+killall: chrome: no process killed
+finished
+2025-01-08 11:26:21.282105
+killall: chrome: no process killed
+finished
+2025-01-08 11:31:22.017467
+killall: chrome: no process killed
+finished
+2025-01-08 11:36:20.830042
+killall: chrome: no process killed
+finished
+2025-01-08 11:41:21.007578
+killall: chrome: no process killed
+finished
+2025-01-08 11:46:20.730935
+killall: chrome: no process killed
+finished
+2025-01-08 11:51:22.212898
+killall: chrome: no process killed
+finished
+2025-01-08 11:56:21.160186
+killall: chrome: no process killed
+finished
+2025-01-08 12:01:20.800524
+killall: chrome: no process killed
+finished
+2025-01-08 12:06:21.802585
+killall: chrome: no process killed
+finished
+2025-01-08 12:11:20.960777
+killall: chrome: no process killed
+finished
+2025-01-08 12:16:21.457625
+killall: chrome: no process killed
+finished
+2025-01-08 12:21:21.018054
+killall: chrome: no process killed
+finished
+2025-01-08 12:26:21.103786
+killall: chrome: no process killed
+finished
+2025-01-08 12:31:20.524530
+killall: chrome: no process killed
+finished
+2025-01-08 12:36:21.107260
+killall: chrome: no process killed
+finished
+2025-01-08 12:41:20.999450
+killall: chrome: no process killed
+finished
+2025-01-08 12:46:21.912569
+killall: chrome: no process killed
+finished
+2025-01-08 12:51:20.853986
+killall: chrome: no process killed
+finished
+2025-01-08 12:56:21.320407
+killall: chrome: no process killed
+finished
+2025-01-08 13:01:20.909815
+killall: chrome: no process killed
+finished
+2025-01-08 13:06:21.196779
+killall: chrome: no process killed
+finished
+2025-01-08 13:11:20.640237
+killall: chrome: no process killed
+finished
+2025-01-08 13:16:21.272732
+killall: chrome: no process killed
+finished
+2025-01-08 13:21:20.847691
+killall: chrome: no process killed
+finished
+2025-01-08 13:26:21.916281
+killall: chrome: no process killed
+finished
+2025-01-08 13:31:21.162349
+killall: chrome: no process killed
+finished
+2025-01-08 13:36:20.827421
+killall: chrome: no process killed
+finished
+2025-01-08 13:41:22.430643
+killall: chrome: no process killed
+finished
+2025-01-08 13:46:21.239024
+killall: chrome: no process killed
+finished
+2025-01-08 13:51:21.428951
+killall: chrome: no process killed
+finished
+2025-01-08 13:56:21.861570
+killall: chrome: no process killed
+finished
+2025-01-08 14:01:20.783181
+killall: chrome: no process killed
+finished
+2025-01-08 14:06:21.193328
+killall: chrome: no process killed
+finished
+2025-01-08 14:11:20.906664
+killall: chrome: no process killed
+finished
+2025-01-08 14:16:21.825663
+killall: chrome: no process killed
+finished
+2025-01-08 14:21:21.245379
+killall: chrome: no process killed
+finished
+2025-01-08 14:26:21.071524
+killall: chrome: no process killed
+finished
+2025-01-08 14:31:21.255886
+killall: chrome: no process killed
+finished
+2025-01-08 14:36:21.374582
+killall: chrome: no process killed
+finished
+2025-01-08 14:41:21.325342
+killall: chrome: no process killed
+finished
+2025-01-08 14:46:21.380733
+killall: chrome: no process killed
+finished
+2025-01-08 14:51:20.936810
+killall: chrome: no process killed
+finished
+2025-01-08 14:56:20.490511
+killall: chrome: no process killed
+finished
+2025-01-08 15:01:22.001919
+killall: chrome: no process killed
+finished
+2025-01-08 15:06:21.626065
+killall: chrome: no process killed
+finished
+2025-01-08 15:11:21.200423
+killall: chrome: no process killed
+finished
+2025-01-08 15:16:21.179040
+killall: chrome: no process killed
+finished
+2025-01-08 15:21:21.356991
+killall: chrome: no process killed
+finished
+2025-01-08 15:26:21.062711
+killall: chrome: no process killed
+finished
+2025-01-08 15:31:21.497593
+killall: chrome: no process killed
+finished
+2025-01-08 15:36:20.962399
+killall: chrome: no process killed
+finished
+2025-01-08 15:41:22.221540
+killall: chrome: no process killed
+finished
+2025-01-08 15:46:21.775352
+killall: chrome: no process killed
+finished
+2025-01-08 15:51:21.325220
+killall: chrome: no process killed
+finished
+2025-01-08 15:56:21.191479
+killall: chrome: no process killed
+finished
+2025-01-08 16:01:21.961407
+killall: chrome: no process killed
+finished
+2025-01-08 16:06:21.608659
+killall: chrome: no process killed
+finished
+2025-01-08 16:11:21.590473
+killall: chrome: no process killed
+finished
+2025-01-08 16:16:20.748404
+killall: chrome: no process killed
+finished
+2025-01-08 16:21:22.147730
+killall: chrome: no process killed
+finished
+2025-01-08 16:26:21.090796
+killall: chrome: no process killed
+finished
+2025-01-08 16:31:21.570842
+killall: chrome: no process killed
+finished
+2025-01-08 16:36:20.830094
+killall: chrome: no process killed
+finished
+2025-01-08 16:41:21.363252
+killall: chrome: no process killed
+finished
+2025-01-08 16:46:20.965817
+killall: chrome: no process killed
+finished
+2025-01-08 16:51:21.895752
+killall: chrome: no process killed
+finished
+2025-01-08 16:56:21.195700
+killall: chrome: no process killed
+finished
+2025-01-08 17:01:22.138880
+killall: chrome: no process killed
+try 2
+try 3
+try 4
+try 5
+try 6
+failed
+
+Station: RI OER / HOPKINTON DCFC2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You need to enable JavaScript to run this app.
+Skip to contentChargePoint logoMapConnectionsWaitlistReceiptSign InStations400 Main Street, HopkintonRI OER HOPKINTON DCFC2AvailableDCPayment type: Paid400 Main Street, HopkintonRI OER HOPKINTON ST#3AvailableACPayment type: Paid400 Main Street, HopkintonRI OER HOPKINTON ST#2AvailableACPayment type: Paid400 Main Street, Floor Main lot, HopkintonRI OER NEVI STATION 2AvailableDCPayment type: Paid400 Main Street, HopkintonRI OER HOPKINTON DCFC1UnknownDCPayment type: Paid400 Main Street, Floor Main, HopkintonRI OER NEVI STATION 1AvailableDCPayment type: Paid400 Main Street, HopkintonRI OER HOPKINTON ST#1AvailableACPayment type: Paid←Move left→Move right↑Move up↓Move down+Zoom in-Zoom outHomeJump left by 75%EndJump right by 75%Page UpJump up by 75%Page DownJump down by 75%To navigate, press the arrow keys.MapMapSatelliteTerrainLabelsKeyboard shortcutsMap DataMap data ©2025 GoogleMap data ©2025 Google20 m Click to toggle between metric and imperial unitsTermsReport a map errorTestCurrently showing 7 charging stations on the mapBackCopy to clipboardFavorite stationPrevious imageNext image1 / 7Station location will open in a new windowRI OER / HOPKINTON DCFC2400 Main Street, HopkintonChargePoint NetworkComboCHAdeMOAvailable187.5 mi / hour125 kW(DC Fast)Report a ProblemStation InfoLocated in the Park and RidePrice(set by Rhode Island Office of Energy Resources)Energy Rate$0.39 / kWhStation Time RateFirst 1 hr$0.00 / minuteThereafter$0.35 / minuteMaximum Fee$100.00 / sessionGuest Fee$0.99 / sessionCost Estimates$4.88 for 15 minutes$9.75 for 30 minutes$14.62 for 45 minutes$19.50 for 1 hourLast UsedTodayTipsLeave a Tipbrianlegacyvw7/23/2024Pulled into pitch black parking lot around 4:40 AM with no range left.  Luckily lights came on at 5AM & station booted up.  Is that common?stanespo5/7/2024I was just charging When I was ready to leave, it was a little bit earlier than the full charge. I couldn't stop the charge. The station wou... read moremike8103/11/2024Since its day light savings they close at 12:4512345...171 - 3 of 49 tipsCopyright © 2025 ChargePoint, Inc. All rights reserved.EnglishLight ThemeAbout Us((opens in a new tab))Contact Us((opens in a new tab))Privacy Policy((opens in a new tab))Legal((opens in a new tab))Accessibility
+
+error -- failed station state update
+finished
+2025-01-08 17:08:13.695335
+killall: chrome: no process killed
+finished
+2025-01-08 17:11:22.047616
+killall: chrome: no process killed
+finished
+2025-01-08 17:16:22.264616
+killall: chrome: no process killed
+finished
+2025-01-08 17:21:59.806259
+killall: chrome: no process killed
+finished
+2025-01-08 17:26:21.503638
+killall: chrome: no process killed
+finished
+2025-01-08 17:31:21.886121
+killall: chrome: no process killed
+finished
+2025-01-08 17:36:21.862994
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 17:41:34.722296
+killall: chrome: no process killed
+finished
+2025-01-08 17:46:21.266363
+killall: chrome: no process killed
+finished
+2025-01-08 17:51:21.389883
+killall: chrome: no process killed
+finished
+2025-01-08 17:56:21.803890
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 18:01:35.581145
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 18:06:38.339490
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 18:11:33.940126
+killall: chrome: no process killed
+finished
+2025-01-08 18:16:20.992482
+killall: chrome: no process killed
+finished
+2025-01-08 18:21:21.877388
+killall: chrome: no process killed
+finished
+2025-01-08 18:26:22.142052
+killall: chrome: no process killed
+finished
+2025-01-08 18:31:22.071189
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 18:36:34.210928
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 18:41:35.076767
+killall: chrome: no process killed
+finished
+2025-01-08 18:46:21.557391
+killall: chrome: no process killed
+finished
+2025-01-08 18:51:23.017204
+killall: chrome: no process killed
+finished
+2025-01-08 18:56:21.728696
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 19:01:35.621270
+killall: chrome: no process killed
+finished
+2025-01-08 19:06:21.967715
+killall: chrome: no process killed
+finished
+2025-01-08 19:11:21.152884
+killall: chrome: no process killed
+finished
+2025-01-08 19:16:21.794467
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 19:21:34.285276
+killall: chrome: no process killed
+finished
+2025-01-08 19:26:22.046588
+killall: chrome: no process killed
+finished
+2025-01-08 19:31:21.913814
+killall: chrome: no process killed
+finished
+2025-01-08 19:36:21.464230
+killall: chrome: no process killed
+try 2
+try 3
+try 4
+try 5
+try 6
+failed
+
+Station: WPR / RT117 DCFC1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You need to enable JavaScript to run this app.
+Skip to contentChargePoint logoMapConnectionsWaitlistReceiptSign InStations292 Centerville Road, WarwickWPR RT117 DCFC1AvailableDCPayment type: Paid292 Centerville Road, WarwickWPR RT117 DCFC2In UseDCPayment type: Paid292 centerville road, WarwickWPR RT117 P&R STN3AvailableACPayment type: Paid292 Centerville, WarwickWPR RT117 P&R STN2AvailableACPayment type: Paid292 Centerville, WarwickWPR RT117 P&R STN1AvailableACPayment type: Paid292 Centerville Road, Floor right side, WarwickWPR NEVI DCFC 2AvailableDCPayment type: Paid292 Centerville Road, Floor right side, WarwickWPR NEVI DCFC 1AvailableDCPayment type: Paid←Move left→Move right↑Move up↓Move down+Zoom in-Zoom outHomeJump left by 75%EndJump right by 75%Page UpJump up by 75%Page DownJump down by 75%To navigate, press the arrow keys.MapMapSatelliteTerrainLabelsKeyboard shortcutsMap DataMap data ©2025 GoogleMap data ©2025 Google20 m Click to toggle between metric and imperial unitsTermsReport a map errorTestCurrently showing 7 charging stations on the mapBackCopy to clipboardFavorite stationPrevious imageNext image1 / 10Station location will open in a new windowWPR / RT117 DCFC1292 Centerville Road, WarwickChargePoint NetworkAvailable187.5 mi / hour125 kWReport a ProblemPrice(set by Rhode Island Office of Energy Resources)Energy Rate$0.39 / kWhStation Time RateFirst 1 hr$0.00 / minuteThereafter$0.35 / minuteMaximum Fee$100.00 / sessionGuest Fee$0.99 / sessionCost Estimates$4.88 for 15 minutes$9.75 for 30 minutes$14.62 for 45 minutes$19.50 for 1 hourLast Used19 days agoTipsLeave a TipMyTeslaM3sr1/2/2025As of 1/1/2025 
+NO LONGER IS SLOW CHARGING FREE!!!!
+Go somewhere else. Plenty of free slow & safe charging around warwick. The hell with thi... read morenate421/1/2025It goes from free to expensive as hellgeolan751/1/2025No longer free... It was good while it lasted. Welcome to 2025.12345...301 - 3 of 90 tipsCopyright © 2025 ChargePoint, Inc. All rights reserved.EnglishLight ThemeAbout Us((opens in a new tab))Contact Us((opens in a new tab))Privacy Policy((opens in a new tab))Legal((opens in a new tab))Accessibility
+
+error -- failed station state update
+finished
+2025-01-08 19:43:14.453141
+killall: chrome: no process killed
+finished
+2025-01-08 19:46:21.939430
+killall: chrome: no process killed
+finished
+2025-01-08 19:51:21.212538
+killall: chrome: no process killed
+finished
+2025-01-08 19:56:20.275394
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 20:01:40.842906
+killall: chrome: no process killed
+finished
+2025-01-08 20:06:20.163271
+killall: chrome: no process killed
+finished
+2025-01-08 20:11:20.320316
+killall: chrome: no process killed
+finished
+2025-01-08 20:16:20.548627
+killall: chrome: no process killed
+finished
+2025-01-08 20:21:21.604763
+killall: chrome: no process killed
+finished
+2025-01-08 20:26:21.218608
+killall: chrome: no process killed
+finished
+2025-01-08 20:31:20.581195
+killall: chrome: no process killed
+finished
+2025-01-08 20:36:20.216691
+killall: chrome: no process killed
+try 2
+try 2
+finished
+2025-01-08 20:41:45.011343
+killall: chrome: no process killed
+finished
+2025-01-08 20:46:20.712678
+killall: chrome: no process killed
+finished
+2025-01-08 20:51:21.189279
+killall: chrome: no process killed
+finished
+2025-01-08 20:56:21.228399
+killall: chrome: no process killed
+finished
+2025-01-08 21:01:21.278455
+killall: chrome: no process killed
+finished
+2025-01-08 21:06:24.666862
+killall: chrome: no process killed
+finished
+2025-01-08 21:11:20.985977
+killall: chrome: no process killed
+finished
+2025-01-08 21:16:20.725127
+killall: chrome: no process killed
+finished
+2025-01-08 21:21:20.377470
+killall: chrome: no process killed
+finished
+2025-01-08 21:26:21.929202
+killall: chrome: no process killed
+finished
+2025-01-08 21:31:20.658943
+killall: chrome: no process killed
+finished
+2025-01-08 21:36:21.619874
+killall: chrome: no process killed
+try 2
+try 3
+try 4
+try 5
+finished
+2025-01-08 21:42:36.861600
+killall: chrome: no process killed
+finished
+2025-01-08 21:46:20.900654
+killall: chrome: no process killed
+finished
+2025-01-08 21:51:20.787119
+killall: chrome: no process killed
+finished
+2025-01-08 21:56:20.774411
+killall: chrome: no process killed
+finished
+2025-01-08 22:01:20.894433
+killall: chrome: no process killed
+finished
+2025-01-08 22:06:21.068082
+killall: chrome: no process killed
+finished
+2025-01-08 22:11:20.528181
+killall: chrome: no process killed
+finished
+2025-01-08 22:16:21.297233
+killall: chrome: no process killed
+finished
+2025-01-08 22:21:21.135981
+killall: chrome: no process killed
+finished
+2025-01-08 22:26:21.228977
+killall: chrome: no process killed
+finished
+2025-01-08 22:31:20.595820
+killall: chrome: no process killed
+finished
+2025-01-08 22:36:21.788110
+killall: chrome: no process killed
+finished
+2025-01-08 22:41:20.987686
+killall: chrome: no process killed
+try 2
+try 3
+finished
+2025-01-08 22:46:48.907384
+killall: chrome: no process killed
+finished
+2025-01-08 22:51:20.885249
+killall: chrome: no process killed
+try 2
+try 3
+try 4
+finished
+2025-01-08 22:57:08.851951
+killall: chrome: no process killed
+try 2
+finished
+2025-01-08 23:01:32.981838
+killall: chrome: no process killed
+finished
+2025-01-08 23:06:20.947856
+killall: chrome: no process killed
+try 2
+try 3
+finished
+2025-01-08 23:11:48.088897
+killall: chrome: no process killed
+finished
+2025-01-08 23:16:20.438982
+killall: chrome: no process killed
+finished
+2025-01-08 23:21:20.303425
+killall: chrome: no process killed
+finished
+2025-01-08 23:26:21.461258
+killall: chrome: no process killed
+finished
+2025-01-08 23:31:21.292274
+killall: chrome: no process killed
+finished
+2025-01-08 23:36:21.204869
+killall: chrome: no process killed
+finished
+2025-01-08 23:41:21.006570
+killall: chrome: no process killed
+finished
+2025-01-08 23:46:21.496478
+killall: chrome: no process killed
+finished
+2025-01-08 23:51:20.472569
+killall: chrome: no process killed
+finished
+2025-01-08 23:56:21.842454
+killall: chrome: no process killed
+try 2
+try 2
+finished
+2025-01-09 00:01:46.665403
+killall: chrome: no process killed
+finished
+2025-01-09 00:06:20.887151
+killall: chrome: no process killed
+try 2
+try 2
+finished
+2025-01-09 00:11:45.872050
+killall: chrome: no process killed
+finished
+2025-01-09 00:16:20.556892
+killall: chrome: no process killed
+finished
+2025-01-09 00:21:20.551798
+killall: chrome: no process killed
+finished
+2025-01-09 00:26:20.421304
+killall: chrome: no process killed
+finished
+2025-01-09 00:31:20.466125
+killall: chrome: no process killed
+finished
+2025-01-09 00:36:21.592017
+killall: chrome: no process killed
+finished
+2025-01-09 00:41:21.699796
+killall: chrome: no process killed
+finished
+2025-01-09 00:46:20.147940
+killall: chrome: no process killed
+finished
+2025-01-09 00:51:20.718388
+killall: chrome: no process killed
+finished
+2025-01-09 00:56:21.270977
+killall: chrome: no process killed
+finished
+2025-01-09 01:01:21.718133
+killall: chrome: no process killed
+finished
+2025-01-09 01:06:21.407543
+killall: chrome: no process killed
+finished
+2025-01-09 01:11:21.870693
+killall: chrome: no process killed
+finished
+2025-01-09 01:16:20.842142
+killall: chrome: no process killed
+finished
+2025-01-09 01:21:20.922373
+killall: chrome: no process killed
+finished
+2025-01-09 01:26:21.943644
+killall: chrome: no process killed
+finished
+2025-01-09 01:31:21.295163
+killall: chrome: no process killed
+finished
+2025-01-09 01:36:20.685733
+killall: chrome: no process killed
+finished
+2025-01-09 01:41:20.338791
+killall: chrome: no process killed
+finished
+2025-01-09 01:46:20.581810
+killall: chrome: no process killed
+finished
+2025-01-09 01:51:21.363094
+killall: chrome: no process killed
+finished
+2025-01-09 01:56:20.466405
+killall: chrome: no process killed
+finished
+2025-01-09 02:01:21.736800
+killall: chrome: no process killed
+finished
+2025-01-09 02:06:21.664353
+killall: chrome: no process killed
+finished
+2025-01-09 02:11:20.633605
+killall: chrome: no process killed
+finished
+2025-01-09 02:16:20.796266
+killall: chrome: no process killed
+finished
+2025-01-09 02:21:20.963750
+killall: chrome: no process killed
+finished
+2025-01-09 02:26:20.416391
+killall: chrome: no process killed
+finished
+2025-01-09 02:31:20.960460
+killall: chrome: no process killed
+finished
+2025-01-09 02:36:20.770824
+killall: chrome: no process killed
+finished
+2025-01-09 02:41:20.585306
+killall: chrome: no process killed
+finished
+2025-01-09 02:46:21.700733
+killall: chrome: no process killed
+finished
+2025-01-09 02:51:20.730567
+killall: chrome: no process killed
+finished
+2025-01-09 02:56:21.291557
+killall: chrome: no process killed
+finished
+2025-01-09 03:01:21.321278
+killall: chrome: no process killed
+finished
+2025-01-09 03:06:20.417300
+killall: chrome: no process killed
+finished
+2025-01-09 03:11:21.119684
+killall: chrome: no process killed
+finished
+2025-01-09 03:16:21.654600
+killall: chrome: no process killed
+finished
+2025-01-09 03:21:21.355802
+killall: chrome: no process killed
+finished
+2025-01-09 03:26:21.518080
+killall: chrome: no process killed
+try 2
+finished
+2025-01-09 03:31:33.534351
+killall: chrome: no process killed
+finished
+2025-01-09 03:36:20.294482
+killall: chrome: no process killed
+finished
+2025-01-09 03:41:20.491981
+killall: chrome: no process killed
+finished
+2025-01-09 03:46:20.430131
+killall: chrome: no process killed
+finished
+2025-01-09 03:51:21.102460
+killall: chrome: no process killed
+finished
+2025-01-09 03:56:20.428434
+killall: chrome: no process killed
+finished
+2025-01-09 04:01:20.840772
+killall: chrome: no process killed
+finished
+2025-01-09 04:06:21.548251
+killall: chrome: no process killed
+finished
+2025-01-09 04:11:20.890622
+killall: chrome: no process killed
+finished
+2025-01-09 04:16:21.602408
+killall: chrome: no process killed
+finished
+2025-01-09 04:21:20.522268
+killall: chrome: no process killed
+finished
+2025-01-09 04:26:21.559550
+killall: chrome: no process killed
+finished
+2025-01-09 04:31:21.073782
+killall: chrome: no process killed
+finished
+2025-01-09 04:36:20.733095
+killall: chrome: no process killed
+finished
+2025-01-09 04:41:20.464919
+killall: chrome: no process killed
+finished
+2025-01-09 04:46:21.069740
+killall: chrome: no process killed
+finished
+2025-01-09 04:51:21.131783
+killall: chrome: no process killed
+finished
+2025-01-09 04:56:21.621598
+killall: chrome: no process killed
+finished
+2025-01-09 05:01:21.954601
+killall: chrome: no process killed
+finished
+2025-01-09 05:06:20.715511
+killall: chrome: no process killed
+finished
+2025-01-09 05:11:21.728802
+killall: chrome: no process killed
+finished
+2025-01-09 05:16:21.529613
+killall: chrome: no process killed
+finished
+2025-01-09 05:21:21.115467
+killall: chrome: no process killed
+finished
+2025-01-09 05:26:21.000887
+killall: chrome: no process killed
+finished
+2025-01-09 05:31:21.443992
+killall: chrome: no process killed
+finished
+2025-01-09 05:36:21.032551
+killall: chrome: no process killed
+finished
+2025-01-09 05:41:21.198182
+killall: chrome: no process killed
+finished
+2025-01-09 05:46:20.889987
+killall: chrome: no process killed
+finished
+2025-01-09 05:51:20.930466
+killall: chrome: no process killed
+finished
+2025-01-09 05:56:20.722941
+killall: chrome: no process killed
+finished
+2025-01-09 06:01:20.771761
+killall: chrome: no process killed
+finished
+2025-01-09 06:06:21.087656
+killall: chrome: no process killed
+finished
+2025-01-09 06:11:21.212503
+killall: chrome: no process killed
+finished
+2025-01-09 06:16:20.970897
+killall: chrome: no process killed
+finished
+2025-01-09 06:21:21.311994
+killall: chrome: no process killed
+finished
+2025-01-09 06:26:21.238963
+killall: chrome: no process killed
+finished
+2025-01-09 06:31:20.606135
+killall: chrome: no process killed
+finished
+2025-01-09 06:36:20.475616
+killall: chrome: no process killed
+finished
+2025-01-09 06:41:20.542584
+killall: chrome: no process killed
+finished
+2025-01-09 06:46:21.407110
+killall: chrome: no process killed
+finished
+2025-01-09 06:51:21.250664
+killall: chrome: no process killed
+finished
+2025-01-09 06:56:21.899324
+killall: chrome: no process killed
+finished
+2025-01-09 07:01:21.336140

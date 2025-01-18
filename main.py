@@ -39,6 +39,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.common.by import By
 # from webdriver_manager.chrome import ChromeDriverManager
 # from pyvirtualdisplay import Display  # didn't work
 # from fake_useragent import UserAgent
@@ -53,6 +54,10 @@ def get_status_data(url, station_id):
     get_url = driver.current_url
     wait.until(EC.url_to_be(url))
     wait = WebDriverWait(driver, 10)
+    # elements = driver.find_elements(By.XPATH, "//div[@data-qa-id='last_used-accordion-panel']")
+    # for element in elements: 
+    #    # element.click()  # element not interactable 
+    #    driver.execute_script("arguments[0].click();",element)
     if get_url == url:
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, features='html.parser')
@@ -110,6 +115,7 @@ def get_status_data(url, station_id):
 
         # get last used data on cars and dates, format lists to json
         car_states = soup.find('div', {'data-qa-id':'last_used-accordion-panel'})
+        print(car_states)
         charged_cars = [s.string for s in car_states.find_all("h5")]
         charge_dates = [s.string for s in car_states.find_all("p")]
         json_array = json.dumps([{charged_cars[i]: charge_dates[i]} for i in range(len(charged_cars))])

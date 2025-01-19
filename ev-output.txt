@@ -6029,3 +6029,1200 @@ The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver m
 killall: chrome: no process killed
 finished
 2025-01-18 07:01:22.089398
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 07:06:21.916070
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 07:11:21.714400
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 07:16:22.309509
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 07:21:21.750499
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 07:26:21.451307
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 07:31:21.264770
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 07:36:21.522132
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 07:41:21.470414
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 07:46:21.715825
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 07:51:21.313233
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 07:56:20.134805
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+try 2
+finished
+2025-01-18 08:01:34.218787
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 08:06:20.842991
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 08:11:20.550092
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 08:16:20.616739
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 08:21:31.603015
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 08:26:21.073025
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 08:31:20.694562
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 08:36:21.911030
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 08:41:21.057442
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 08:46:20.976357
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 08:51:21.894218
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 08:56:21.281113
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:01:20.251344
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:06:20.700101
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:11:21.057801
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:16:21.315080
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:21:21.009252
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:26:20.780410
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:31:21.024469
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:36:20.564948
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:41:21.068142
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:46:21.073537
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:51:21.061703
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 09:56:20.751353
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:01:20.557160
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:06:20.596390
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:11:21.091765
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:16:21.244341
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:21:20.616542
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:26:21.439922
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:31:21.268842
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:36:20.860278
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:41:20.910408
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:46:21.550445
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:51:21.277440
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 10:56:21.786649
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:01:20.877520
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:06:21.274653
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:11:21.006707
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:16:21.268903
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:21:20.814202
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:26:20.577206
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:31:21.209814
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:36:21.376319
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:41:20.974129
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:46:20.602705
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:51:20.568944
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 11:56:21.194644
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:01:21.900227
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:06:21.076123
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:11:20.995302
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:16:21.294787
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:21:20.789474
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:26:20.893522
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:31:20.923504
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:36:20.547815
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:41:20.531554
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:46:20.669955
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:51:20.840542
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 12:56:20.702972
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 13:01:20.929092
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 13:06:21.114289
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 13:11:20.564617
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 13:16:21.204606
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 13:21:20.936087
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 13:26:20.744624
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 13:31:21.015150
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 13:36:21.401978
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 13:41:21.492708
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 13:46:20.882811
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 13:51:21.923395
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+try 2
+finished
+2025-01-18 13:56:33.876591
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:01:22.277785
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:06:21.557443
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:11:21.318769
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:16:21.527011
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:21:21.383199
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:26:20.756500
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:31:21.098293
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:36:21.076848
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:41:20.911796
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:46:21.647883
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:51:21.032253
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 14:56:20.319895
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:01:20.880244
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:06:20.431720
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:11:20.941949
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:16:21.773005
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:21:21.306878
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:26:20.941608
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:31:21.156200
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:36:21.122320
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:41:20.686266
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:46:20.679995
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:51:21.589833
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 15:56:20.859091
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:01:21.714754
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:06:21.796267
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:11:20.894556
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:16:20.581574
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:21:21.806178
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:26:20.985282
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:31:20.399362
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:36:21.501874
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:41:21.050527
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:46:21.464850
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:51:21.532848
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 16:56:21.174985
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:01:21.163363
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:06:20.663210
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:11:21.178499
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:16:21.295208
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:21:21.020760
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:26:21.428375
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:31:21.439737
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:36:21.388805
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:41:20.776999
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:46:20.640447
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:51:20.867752
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 17:56:21.928389
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 18:01:21.499673
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+try 2
+finished
+2025-01-18 18:06:34.456586
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 18:11:20.981562
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 18:16:21.620996
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 18:21:21.559784
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 18:26:21.875690
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 18:31:21.620494
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 18:36:20.923216
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 18:41:21.519606
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 18:46:21.719242
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 18:51:22.256867
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 18:56:21.802926
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:01:21.455060
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:06:21.088270
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:11:20.886448
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:16:22.186652
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:21:21.876553
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:26:21.073988
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:31:21.433586
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:36:20.719092
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:41:21.087317
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:46:21.231047
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:51:21.960417
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 19:56:21.365549
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:01:21.354475
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:06:21.076022
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:11:21.548314
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:16:21.710398
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:21:21.234169
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:26:22.200719
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:31:21.098466
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:36:21.309743
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:41:21.543570
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:46:20.915122
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:51:21.149433
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 20:56:20.899618
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:01:21.418319
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:06:24.600254
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:11:21.080303
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:16:21.756768
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:21:21.259999
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:26:21.641735
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:31:22.350895
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:36:21.228745
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:41:21.767377
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:46:21.789789
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:51:21.307965
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 21:56:22.026376
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:01:22.130261
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:06:21.184905
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:11:21.001238
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:16:21.659312
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:21:21.627622
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:26:21.360473
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:31:22.048583
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:36:21.626442
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:41:21.404851
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:46:21.335299
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:51:20.964508
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 22:56:21.875672
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+try 2
+finished
+2025-01-18 23:01:33.677477
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 23:06:21.723813
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 23:11:21.736574
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 23:16:21.660867
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 23:21:21.180966
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 23:26:21.829202
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 23:31:20.886966
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 23:36:22.245386
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 23:41:21.720356
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 23:46:22.135912
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 23:51:21.503396
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-18 23:56:21.518703
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:01:21.863883
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:06:22.604794
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:11:22.385776
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:16:22.935958
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:21:21.682732
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:26:22.348400
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:31:21.781405
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:36:21.999406
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:41:21.404986
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:46:23.244966
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:51:21.045792
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 00:56:22.076520
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:01:21.623498
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:06:21.583087
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:11:21.747413
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:16:21.604627
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:21:21.373734
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:26:21.728052
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:31:21.589437
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:36:21.472224
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:41:22.663297
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:46:21.666655
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:51:21.560193
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 01:56:22.163299
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+try 2
+try 3
+finished
+2025-01-19 02:01:50.172506
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 02:06:21.299388
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 02:11:21.780603
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 02:16:21.123726
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 02:21:22.136552
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 02:26:21.962383
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 02:31:21.958756
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 02:36:22.794374
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 02:41:21.670418
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 02:46:22.805244
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 02:51:22.041357
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 02:56:22.248721
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:01:22.786836
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:06:22.164966
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:11:21.879470
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:16:22.488520
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:21:21.939882
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:26:23.230954
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:31:21.559702
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:36:21.353805
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:41:22.374200
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:46:21.158802
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:51:21.620063
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 03:56:22.134902
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:01:21.665989
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:06:21.867211
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:11:21.945376
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:16:22.244355
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:21:21.902513
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:26:21.479956
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:31:21.204252
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:36:21.763947
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:41:21.107505
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:46:21.514537
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:51:21.882256
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 04:56:21.581139
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:01:22.065651
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:06:21.399845
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:11:22.124136
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:16:24.197563
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:21:21.634786
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:26:22.571829
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:31:21.369527
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:36:22.336821
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:41:22.078635
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:46:21.991474
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:51:22.649702
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 05:56:21.581629
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 06:01:21.919245
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 06:06:21.416818
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 06:11:22.342891
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 06:16:22.250756
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 06:21:21.858106
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 06:26:22.511876
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 06:31:20.945271
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 06:36:20.467097
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 06:41:20.753877
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 06:46:21.155463
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 06:51:20.901314
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+Traceback (most recent call last):
+  File "/root/ev-charging-analysis/main.py", line 234, in <module>
+    current_station_state_df = get_status_data(ev_url, station)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/ev-charging-analysis/main.py", line 51, in get_status_data
+    driver.get(url)
+  File "/root/ev-charging-analysis/venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 356, in get
+    self.execute(Command.GET, {"url": url})
+  File "/root/ev-charging-analysis/venv/lib/python3.11/site-packages/selenium/webdriver/remote/webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "/root/ev-charging-analysis/venv/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=132.0.6834.83)
+Stacktrace:
+#0 0x55bbf11b84ca <unknown>
+#1 0x55bbf0ccb620 <unknown>
+#2 0x55bbf0cc3834 <unknown>
+#3 0x55bbf0cb3bd9 <unknown>
+#4 0x55bbf0cb58e4 <unknown>
+#5 0x55bbf0cb3e8d <unknown>
+#6 0x55bbf0cb36e6 <unknown>
+#7 0x55bbf0cb35de <unknown>
+#8 0x55bbf0cb1616 <unknown>
+#9 0x55bbf0cb1c8a <unknown>
+#10 0x55bbf0ccdf49 <unknown>
+#11 0x55bbf0d5da35 <unknown>
+#12 0x55bbf0d3e372 <unknown>
+#13 0x55bbf0d5cde0 <unknown>
+#14 0x55bbf0d3e113 <unknown>
+#15 0x55bbf0d0cbe0 <unknown>
+#16 0x55bbf0d0dbbe <unknown>
+#17 0x55bbf1184e4b <unknown>
+#18 0x55bbf1188de2 <unknown>
+#19 0x55bbf1171d2c <unknown>
+#20 0x55bbf1189957 <unknown>
+#21 0x55bbf11574bf <unknown>
+#22 0x55bbf11a7348 <unknown>
+#23 0x55bbf11a7510 <unknown>
+#24 0x55bbf11b7346 <unknown>
+#25 0x7fa8265401c4 <unknown>
+
+The chromedriver version (131.0.6778.69) detected in PATH at /bin/chromedriver might not be compatible with the detected chrome version (132.0.6834.83); currently, chromedriver 132.0.6834.83 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+killall: chrome: no process killed
+finished
+2025-01-19 07:01:21.082328

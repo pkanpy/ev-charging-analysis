@@ -128,7 +128,18 @@ if __name__ == "__main__":
             database_path, 
             driver, 
             ev_url)
-    for station_message  in stations_not_found_list:
-        print(station_message)
+        if stations_not_found_list:
+            for station_message  in stations_not_found_list:
+                print(station_message)
+
+    # get all current station ids
+    with sqlite3.connect(database_path) as conn:
+        sql = f"SELECT DISTINCT station_id FROM {info_table_name}"
+        db_station_ids = conn.cursor().execute(sql).fetchall()
+        new_station_ids = [i[0] for i in db_station_ids]
+
     
+    driver.quit()
     print('finished')
+    if new_station_ids:
+        print('added new stations: {}'.format(', '.join(new_station_ids)))

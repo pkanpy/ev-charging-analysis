@@ -200,10 +200,15 @@ def get_station_info(url, station_id):
 if __name__ == '__main__':
     # initialize url, stations, sqlite connection, and chrome webdriver (headless)
     ev_url = "https://driver.chargepoint.com/stations/"
-    station_list = ['554251', '5426281', '5426291','15906911','15906941','16001231','5404641','16001841','5404611']
+    # station_list = ['554251', '5426281', '5426291','15906911','15906941','16001231','5404641','16001841','5404611']
     state_table_name = 'charging_station_states'
     info_table_name = 'charging_station_info'
     conn = sqlite3.connect('/root/ev-charging-analysis/ev_charging.db')
+
+    sql = f"SELECT DISTINCT STATION_ID FROM {info_table_name}"
+    info_station_ids = conn.cursor().execute(sql).fetchall()
+    station_list = [i[0] for i in info_station_ids]
+
     options = Options()
     options.add_argument("--incognito")
     options.add_argument("--nogpu")
@@ -291,7 +296,7 @@ if __name__ == '__main__':
             print('error -- failed station info update')
         info_inserted = station_info_update_df.to_sql(info_table_name, conn, if_exists='append', index=False)
 
-
+    conn.close()
     print('finished')
     print(datetime.datetime.now())
     driver.quit()

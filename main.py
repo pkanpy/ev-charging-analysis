@@ -115,7 +115,7 @@ def get_status_data(url, station_id):
 
         # get last used data on cars and dates, format lists to json
         car_states = soup.find('div', {'data-qa-id':'last_used-accordion-panel'})
-        print(car_states)
+        # print(car_states)
         charged_cars = [s.string for s in car_states.find_all("h5")]
         charge_dates = [s.string for s in car_states.find_all("p")]
         json_array = json.dumps([{charged_cars[i]: charge_dates[i]} for i in range(len(charged_cars))])
@@ -269,10 +269,10 @@ if __name__ == '__main__':
             last_station_state = conn.cursor().execute(sql).fetchone()
             if (last_station_state is None) and ~(current_station_state_df.empty):
 	            pass
-            if ((last_station_state[2] != current_station_info_df.loc[0, 'port_1_info']) and
+            elif ((last_station_state[2] != current_station_info_df.loc[0, 'port_1_info']) and
                     (last_station_state[2] != 'failure')):
                 current_station_info_df['port_1_change_flag'] = 1
-            if ((last_station_state[3] != current_station_info_df.loc[0, 'port_2_info']) and
+            elif ((last_station_state[3] != current_station_info_df.loc[0, 'port_2_info']) and
                     (last_station_state[2] != 'failure')):
                 current_station_info_df['port_2_change_flag'] = 1
             info_df_list.append(current_station_info_df)
